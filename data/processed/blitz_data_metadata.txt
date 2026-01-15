@@ -1,0 +1,43 @@
+BLITZ MODEL - DATASET METADATA
+============================================================
+
+DATASET STATISTICS
+------------------------------------------------------------
+Total plays:        35,430
+Number of features: 11
+Data file:          blitz_data_cleaned.csv
+
+CLASS DISTRIBUTION
+------------------------------------------------------------
+Blitz plays:        5,777 (16.3%)
+No blitz plays:     29,653 (83.7%)
+
+FEATURES
+------------------------------------------------------------
+ 1. down                      | float32    | Nulls: 126
+ 2. ydstogo                   | float32    | Nulls: 0
+ 3. yardline_100              | float32    | Nulls: 0
+ 4. qtr                       | float32    | Nulls: 0
+ 5. game_seconds_remaining    | float32    | Nulls: 0
+ 6. score_differential        | float32    | Nulls: 0
+ 7. offense_personnel         | object     | Nulls: 0
+ 8. defense_personnel         | object     | Nulls: 0
+ 9. pass_location             | object     | Nulls: 16489
+10. shotgun                   | float32    | Nulls: 0
+11. no_huddle                 | float32    | Nulls: 0
+12. blitz                     | int64      | Nulls: 0
+
+REQUIRED COLUMNS FOR BLITZ MODEL
+------------------------------------------------------------
+[OK] down
+[OK] ydstogo
+[OK] yardline_100
+[OK] qtr
+[OK] game_seconds_remaining
+[OK] score_differential
+[OK] offense_personnel
+[OK] defense_personnel
+[OK] pass_location
+[OK] shotgun
+[OK] no_huddle
+[OK] blitz

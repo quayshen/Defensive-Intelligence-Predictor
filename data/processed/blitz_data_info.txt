@@ -1,0 +1,9 @@
+Blitz Model Dataset Info
+==================================================
+
+Total plays: 106796
+Features: 11
+Blitz plays: 17049
+No blitz plays: 89747
+
+Columns: down, ydstogo, yardline_100, quarter, game_seconds_remaining, score_differential, offense_personnel, defense_personnel, formation, shotgun, motion, blitz
