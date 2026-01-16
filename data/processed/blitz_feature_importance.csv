@@ -1,0 +1,1747 @@
+feature,importance
+formation_Unknown,0.322968390471117
+formation_left,0.1305080738448021
+formation_right,0.11423368221426172
+down,0.0675504417257485
+ydstogo,0.05017044111011297
+shotgun,0.04107928356964481
+formation_middle,0.03724826439728992
+yardline_100,0.0356486432413176
+game_seconds_remaining,0.03534264235366699
+score_differential,0.029908521783097376
+quarter,0.01015724823866735
+motion,0.009599298223589174
+"defense_personnel_3 DL, 4 LB, 4 DB",0.00527769133805365
+"offense_personnel_1 RB, 1 TE, 3 WR",0.004800578956566978
+"defense_personnel_5 DL, 1 LB, 5 DB",0.0034894511198798927
+"defense_personnel_1 DL, 5 LB, 5 DB",0.0034125133879623908
+"defense_personnel_2 DL, 3 LB, 6 DB",0.0032883310046557947
+"defense_personnel_4 DL, 2 LB, 5 DB",0.003249374265895749
+"defense_personnel_4 DL, 1 LB, 6 DB",0.0029403014484945082
+"offense_personnel_1 RB, 2 TE, 2 WR",0.0027203351766201846
+"defense_personnel_4 DL, 3 LB, 4 DB",0.002549173966317646
+"defense_personnel_2 DL, 4 LB, 5 DB",0.002299697476729148
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 2 MLB, 1 NT, 1 OLB, 1 SS",0.002044042948924725
+"defense_personnel_3 DL, 2 LB, 6 DB",0.0018872083369799314
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 MLB, 1 NT, 1 OLB, 1 SS",0.0017811529480344817
+"defense_personnel_1 DL, 4 LB, 6 DB",0.0015981359947468967
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 3 T, 1 TE, 3 WR",0.0015074142246400534
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0014144888385945352
+"defense_personnel_3 DL, 3 LB, 5 DB",0.0012618055487760027
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 1 T, 1 TE, 3 WR",0.0012578064937099093
+"offense_personnel_6 OL, 1 RB, 2 TE, 1 WR",0.0012307117848365324
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 2 T, 1 TE, 3 WR",0.001227283321896174
+"offense_personnel_2 RB, 1 TE, 2 WR",0.0011231577452789126
+"defense_personnel_5 DL, 2 LB, 4 DB",0.0010839234697817078
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0009825723090430406
+"defense_personnel_6 DL, 2 LB, 3 DB",0.0009519586838810254
+"offense_personnel_1 RB, 3 TE, 1 WR",0.0009469772240421734
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.0009073887252615564
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 2 T, 2 TE, 2 WR",0.0009050724389353692
+"offense_personnel_1 RB, 0 TE, 4 WR",0.0008852544060218248
+"offense_personnel_2 RB, 2 TE, 1 WR",0.000869530630556912
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.000799156543882458
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 1 SS",0.0007748720509144785
+"offense_personnel_6 OL, 1 RB, 1 TE, 2 WR",0.0006827698548243985
+"defense_personnel_4 DL, 4 LB, 3 DB",0.00064886920197361
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 2 OLB, 1 SS",0.0006174569316871909
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 2 T, 1 TE, 3 WR",0.0006154177111056966
+"offense_personnel_0 RB, 1 TE, 4 WR",0.0006026532877993304
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 2 T, 1 TE, 3 WR",0.0006017185430718987
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 2 MLB, 1 NT, 1 OLB, 1 SS",0.0005946150979073849
+"offense_personnel_3 G, 1 QB, 1 RB, 2 T, 1 TE, 3 WR",0.0005861642117179985
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 3 OLB, 2 SS",0.0005846682047331312
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 2 OLB, 2 SS",0.0005845733192433184
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 2 ILB",0.0005432622575075327
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 1 MLB, 1 OLB",0.0005424857795527207
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 ILB, 2 OLB, 1 SS",0.0005215543226733845
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 1 MLB, 1 OLB",0.0005128833041481871
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",0.0004956849964217203
+"offense_personnel_6 OL, 2 RB, 1 TE, 1 WR",0.0004908555492739095
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0004890749137172803
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 2 OLB",0.00047347849159259616
+"defense_personnel_3 CB, 1 DT, 1 FS, 1 ILB, 3 OLB, 2 SS",0.0004664663160717581
+"defense_personnel_4 CB, 3 DE, 1 DT, 1 FS, 1 ILB, 1 SS",0.00042266997252908583
+"offense_personnel_0 RB, 2 TE, 3 WR",0.0004152225714075438
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",0.00040828635363504567
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 1 MLB, 2 OLB",0.0004058714915427984
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.00038917474283709267
+"defense_personnel_2 CB, 2 DE, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.00038816867284035856
+"defense_personnel_2 CB, 2 DE, 2 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",0.000387597036779544
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.0003875393766671892
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",0.00038580940297162767
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.00036937584666698475
+"defense_personnel_2 CB, 1 DT, 2 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.00036217720951929323
+"defense_personnel_3 CB, 1 DE, 2 ILB, 1 NT, 2 OLB, 2 SS",0.0003584067949470511
+"offense_personnel_6 OL, 2 RB, 2 TE, 0 WR",0.000355974947315561
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 2 OLB, 2 SS",0.00035224527352437524
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 2 MLB, 1 SS",0.0003508378317091544
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",0.00034805826811213476
+"offense_personnel_2 G, 1 QB, 1 RB, 3 T, 1 TE, 3 WR",0.0003472127573944426
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 FS, 1 OLB, 1 SS",0.0003417770627149263
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",0.0003411813934148556
+"defense_personnel_6 DL, 4 LB, 1 DB",0.0003337673472914175
+"defense_personnel_4 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 2 OLB",0.000319543345367777
+"defense_personnel_3 CB, 1 FS, 1 ILB, 4 OLB, 2 SS",0.00031932519714780884
+"defense_personnel_3 DL, 5 LB, 3 DB",0.00030349436898486867
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 MLB, 2 NT, 1 OLB, 1 SS",0.00030345740637650605
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 2 ILB, 1 OLB",0.0002992309293935651
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 2 T, 3 TE, 1 WR",0.00029285606244998857
+"defense_personnel_2 CB, 2 DE, 2 FS, 2 ILB, 1 NT, 2 OLB",0.0002870166599205417
+"defense_personnel_4 CB, 2 DT, 1 ILB, 2 OLB, 2 SS",0.00028174495604307376
+"offense_personnel_2 RB, 0 TE, 3 WR",0.0002780958767314517
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 ILB, 2 SS",0.00027533699534379463
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 T, 1 TE, 3 WR",0.0002743841306425576
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 3 OLB, 1 SS",0.0002725920230101413
+"defense_personnel_3 CB, 2 DE, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0002716939418392598
+"defense_personnel_3 CB, 2 FS, 1 ILB, 3 OLB, 2 SS",0.0002705625989996459
+"defense_personnel_3 CB, 1 DE, 2 FS, 2 ILB, 2 NT, 1 OLB",0.00026733519604021217
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 3 T, 2 TE, 2 WR",0.0002629526518112361
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",0.00026053840237290544
+"defense_personnel_2 DL, 5 LB, 4 DB",0.0002545572844452498
+"defense_personnel_2 DL, 2 LB, 7 DB",0.0002494573510767751
+"offense_personnel_2 RB, 3 TE, 0 WR",0.00024724265267830404
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 ILB, 2 SS",0.000242983147395926
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",0.00024269223510852217
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",0.0002417398449043207
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 RB, 1 T, 1 TE, 2 WR",0.00023979500021288028
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 3 T, 1 TE, 2 WR",0.00023349255992379035
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0002315118808931906
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 2 MLB, 1 SS",0.00022772435534721303
+"defense_personnel_3 CB, 1 DE, 2 FS, 3 ILB, 1 NT, 1 OLB",0.00022661258863714503
+"defense_personnel_3 CB, 2 DT, 1 FS, 2 ILB, 2 OLB, 1 SS",0.00022462075955968875
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",0.00022258409529253467
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 1 MLB, 1 OLB, 1 SS",0.00022122708917619112
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 3 ILB",0.00021639271216162496
+"offense_personnel_1 C, 2 G, 1 QB, 2 RB, 2 T, 1 TE, 2 WR",0.0002163773769983918
+"defense_personnel_3 CB, 2 DE, 3 DT, 1 FS, 1 OLB, 1 SS",0.00021529018680232568
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 1 SS",0.00021481293221444666
+"offense_personnel_1 FB, 3 G, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",0.00021317093824467032
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0002116451554731815
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 FS, 2 ILB, 1 OLB",0.00021041947779431406
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.00020999867592576583
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 ILB, 2 OLB, 2 SS",0.00020816420680790746
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",0.00020787053082443226
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 1 T, 2 TE, 2 WR",0.00020137888458939378
+"defense_personnel_4 CB, 2 DT, 1 FS, 2 ILB, 2 OLB",0.0002000564978081018
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 2 ILB, 1 SS",0.00019943905911751626
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 ILB, 3 SS",0.00019901112424198098
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 FS, 1 ILB, 1 OLB, 1 SS",0.00019892086227694548
+"defense_personnel_2 CB, 2 DE, 2 DT, 3 FS, 2 ILB",0.00019889991701371135
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 1 ILB, 1 SS",0.00018793297791653763
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 2 MLB",0.0001865602605558105
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 2 ILB, 1 SS",0.00018645925393151428
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",0.00018624154575559072
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 2 OLB, 1 SS",0.00018330205929100216
+"defense_personnel_2 CB, 3 DE, 2 DT, 1 FS, 2 ILB, 1 SS",0.00018315001614125127
+"defense_personnel_6 DL, 3 LB, 2 DB",0.00018138807941798344
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 2 OLB, 1 SS",0.0001778343415145786
+"defense_personnel_4 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 OLB",0.0001719455871063537
+"defense_personnel_3 CB, 1 DT, 1 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",0.00017120960847325333
+"defense_personnel_3 CB, 2 DT, 1 FS, 2 MLB, 1 NT, 1 OLB, 1 SS",0.00017031418941189727
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 1 ILB, 2 OLB",0.00016956565279924009
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.00016922580200310017
+"offense_personnel_1 C, 2 G, 1 QB, 2 RB, 2 T, 2 TE, 1 WR",0.00016700373314758963
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 2 OLB, 2 SS",0.00016578821467418248
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 3 OLB",0.00016565621674281367
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 OLB, 2 SS",0.00016449489627561436
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 3 ILB, 1 SS",0.00016442232787292093
+"defense_personnel_2 CB, 2 DE, 1 FS, 2 ILB, 2 OLB, 2 SS",0.0001634105561373684
+"offense_personnel_2 C, 1 FB, 1 G, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",0.00016116810449030635
+"offense_personnel_7 OL, 1 RB, 1 TE, 1 WR",0.00015957914847654117
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0001584798900180951
+"offense_personnel_1 RB, 4 TE, 0 WR",0.0001581438720339869
+"defense_personnel_2 CB, 2 DE, 1 FS, 2 MLB, 1 NT, 2 OLB, 1 SS",0.00015797152794927422
+"defense_personnel_2 CB, 1 DT, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.00015460173120396934
+"defense_personnel_1 DL, 3 LB, 7 DB",0.00015324255325478025
+"defense_personnel_3 CB, 1 DE, 2 DT, 3 FS, 1 OLB, 1 SS",0.00015296784888025103
+"offense_personnel_2 C, 2 G, 1 QB, 1 RB, 1 T, 1 TE, 3 WR",0.00015223642588019627
+"offense_personnel_1 C, 2 G, 2 QB, 1 RB, 2 T, 3 WR",0.0001512422117947482
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 2 T, 4 WR",0.0001511393474308395
+"defense_personnel_0 DL, 5 LB, 6 DB",0.00014880283675108968
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 ILB, 2 OLB, 2 SS",0.00014857627982658238
+"defense_personnel_2 CB, 2 DE, 2 ILB, 1 NT, 2 OLB, 2 SS",0.00014813722887206492
+"offense_personnel_1 C, 2 G, 1 QB, 2 T, 2 TE, 3 WR",0.00014701349112779228
+"defense_personnel_3 DL, 1 LB, 7 DB",0.00014442451829681764
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.00014406214618157504
+"defense_personnel_3 CB, 2 DE, 2 ILB, 2 OLB, 2 SS",0.00014219955991102962
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 1 ILB, 1 OLB, 1 SS",0.000141756702433536
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",0.00014174399467983118
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 ILB, 1 OLB, 2 SS",0.00014135010232893877
+"offense_personnel_1 C, 3 G, 2 QB, 1 RB, 1 T, 3 WR",0.00014011670275114354
+"defense_personnel_2 CB, 2 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.00013990152529419738
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 SS",0.0001390540919029527
+"offense_personnel_1 C, 1 G, 1 QB, 3 T, 1 TE, 4 WR",0.00013827134572339143
+"defense_personnel_3 CB, 2 DE, 1 FS, 1 ILB, 3 OLB, 1 SS",0.0001371456341778544
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 2 OLB, 1 SS",0.00013558908886251514
+"defense_personnel_3 CB, 4 DE, 1 FS, 1 ILB, 1 OLB, 1 SS",0.00013515765676051596
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 MLB, 2 NT, 1 OLB, 1 SS",0.00013393295775517537
+"defense_personnel_2 CB, 2 DE, 3 DT, 2 ILB, 2 SS",0.00013079771714454507
+"defense_personnel_3 CB, 1 FS, 2 ILB, 4 OLB, 1 SS",0.00012829404279712632
+"defense_personnel_3 CB, 2 DT, 2 FS, 2 ILB, 2 OLB",0.00012793060828762898
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 2 OLB, 1 SS",0.00012735611817431654
+"offense_personnel_0 RB, 0 TE, 5 WR",0.0001260210762904131
+"defense_personnel_3 CB, 1 DE, 2 DT, 3 FS, 1 ILB, 1 OLB",0.0001259833465261796
+"offense_personnel_6 OL, 2 RB, 0 TE, 2 WR",0.00012540044637353906
+"offense_personnel_3 G, 1 QB, 1 RB, 2 T, 2 TE, 2 WR",0.00012496410387077413
+"defense_personnel_1 CB, 1 DT, 2 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",0.00012360182969708186
+"defense_personnel_3 CB, 2 DT, 2 ILB, 2 OLB, 2 SS",0.00012088547788319223
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 2 OLB",0.00012038743843975424
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 OLB, 2 SS",0.00012024314478158793
+"offense_personnel_1 C, 2 G, 2 QB, 1 RB, 3 T, 2 WR",0.00011981077505384979
+"defense_personnel_3 CB, 2 DT, 3 FS, 1 ILB, 2 OLB",0.00011856670337982302
+"defense_personnel_1 CB, 2 DE, 2 DT, 2 FS, 3 ILB, 1 SS",0.00011837832730480401
+"defense_personnel_2 CB, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",0.0001176941187620735
+"defense_personnel_3 CB, 4 DE, 2 FS, 1 OLB, 1 SS",0.00011685494541169201
+"offense_personnel_1 C, 1 G, 2 QB, 1 RB, 3 T, 3 WR",0.00011667380621091045
+"defense_personnel_3 CB, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.00011601569481712714
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 MLB, 3 SS",0.00011600917902093194
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 ILB, 2 OLB, 2 SS",0.00011376773409619144
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 1 OLB, 1 SS",0.00011184793279509316
+"defense_personnel_3 CB, 2 DE, 3 DT, 1 FS, 1 MLB, 1 SS",0.00011017956139884164
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.00010932256009054703
+"defense_personnel_1 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 2 OLB, 2 SS",0.0001089358158196618
+"offense_personnel_1 C, 2 G, 1 QB, 2 T, 1 TE, 4 WR",0.00010883523915326177
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 2 T, 3 WR",0.00010507936396892931
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 MLB, 2 OLB, 1 SS",0.00010472396248367152
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 1 ILB, 2 SS",0.00010460819271655907
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.00010413519893668236
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 2 OLB, 1 SS",0.00010377111904056276
+"defense_personnel_3 CB, 2 DE, 2 FS, 2 ILB, 2 OLB",0.00010347362427714253
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 2 T, 2 TE, 2 WR",0.00010247673034533193
+"defense_personnel_3 CB, 1 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",0.00010162061407243574
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 1 OLB, 2 SS",0.00010157143277994558
+"defense_personnel_3 CB, 1 DE, 1 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.00010077499287609843
+"defense_personnel_5 DL, 3 LB, 3 DB",0.00010053159630916672
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 ILB, 3 OLB, 1 SS",9.951444711803942e-05
+"defense_personnel_0 DL, 4 LB, 7 DB",9.885447092117044e-05
+"offense_personnel_6 OL, 1 RB, 0 TE, 3 WR",9.849047453650638e-05
+"offense_personnel_6 OL, 1 RB, 3 TE, 0 WR",9.736002211075099e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 3 ILB",9.732440553408309e-05
+"defense_personnel_4 CB, 1 DT, 1 ILB, 1 NT, 2 OLB, 2 SS",9.691515800876108e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 1 ILB, 3 OLB, 2 SS",9.679808811951038e-05
+"defense_personnel_3 CB, 3 DE, 2 DT, 1 FS, 1 OLB, 1 SS",9.652692762134281e-05
+"defense_personnel_1 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",9.509207079407999e-05
+"defense_personnel_4 DL, 5 LB, 2 DB",9.488341318566578e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB",9.411431323724281e-05
+"defense_personnel_3 CB, 2 DE, 3 DT, 1 FS, 1 ILB, 1 SS",9.405374030098625e-05
+"defense_personnel_1 CB, 2 DT, 2 FS, 2 ILB, 2 OLB, 2 SS",9.394740484834755e-05
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 1 RB, 3 T, 1 TE, 2 WR",9.308042238140069e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 2 SS",9.139154167417007e-05
+"offense_personnel_2 G, 1 QB, 1 RB, 3 T, 2 TE, 2 WR",9.107299204669295e-05
+"defense_personnel_3 CB, 3 DE, 1 FS, 2 ILB, 1 OLB, 1 SS",9.027695700876655e-05
+"defense_personnel_3 CB, 1 DE, 2 FS, 2 ILB, 1 NT, 2 OLB",8.981287205982409e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 OLB, 2 SS",8.981039819998822e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 2 ILB, 1 OLB, 1 SS",8.942342139196693e-05
+"defense_personnel_2 CB, 2 DE, 1 FS, 3 ILB, 1 NT, 1 OLB, 1 SS",8.919575000908738e-05
+"defense_personnel_4 CB, 1 DE, 2 FS, 1 ILB, 3 OLB",8.905936909881538e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 1 MLB, 1 OLB, 2 SS",8.703958986904463e-05
+"defense_personnel_1 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",8.702853388486566e-05
+"defense_personnel_2 CB, 1 DE, 3 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",8.683183811031294e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 2 OLB, 1 SS",8.610116035339503e-05
+"defense_personnel_3 CB, 1 DT, 2 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",8.60795323922491e-05
+"defense_personnel_4 CB, 2 DE, 1 FS, 1 ILB, 2 OLB, 1 SS",8.585278568084032e-05
+"defense_personnel_3 CB, 2 DE, 2 FS, 3 ILB, 1 OLB",8.55183009959467e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 3 FS, 1 ILB, 1 OLB, 1 SS",8.304057118638266e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 ILB, 2 OLB, 1 SS",8.287413297982974e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 1 MLB, 1 SS",8.280624022603722e-05
+"offense_personnel_1 C, 2 G, 2 QB, 1 RB, 2 T, 1 TE, 2 WR",8.257026981710786e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 1 MLB, 2 SS",8.17005024354868e-05
+"defense_personnel_3 CB, 2 DT, 1 FS, 1 ILB, 2 OLB, 2 SS",8.143318224786244e-05
+"defense_personnel_2 CB, 1 DE, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",8.103737502589073e-05
+"defense_personnel_2 CB, 2 DE, 2 FS, 3 ILB, 1 OLB, 1 SS",8.091893621655277e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 MLB, 1 NT, 2 SS",8.067388024886632e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 MLB, 2 OLB, 1 SS",8.048358427324698e-05
+"defense_personnel_3 CB, 2 DE, 2 FS, 2 ILB, 1 NT, 1 OLB",7.874768814164743e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 ILB, 2 OLB, 2 SS",7.801534284064421e-05
+"defense_personnel_2 CB, 2 DT, 2 FS, 2 ILB, 2 OLB, 1 SS",7.621312508606241e-05
+"defense_personnel_2 CB, 1 DE, 2 FS, 3 ILB, 2 NT, 1 OLB",7.620510158823925e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 1 OLB, 1 SS",7.556288078800009e-05
+"defense_personnel_5 DL, 5 LB, 1 DB",7.474207130727738e-05
+"offense_personnel_2 QB, 1 RB, 1 TE, 2 WR",7.4426693781083e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 1 MLB, 2 OLB",7.334958883226479e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 1 ILB, 1 OLB",7.321200327272365e-05
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 2 ILB, 1 SS",7.304133596070257e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 1 ILB, 2 NT, 2 OLB, 1 SS",7.207398140964563e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 2 OLB, 1 SS",7.191177680799301e-05
+"defense_personnel_1 CB, 1 DT, 3 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",7.154711120567734e-05
+"defense_personnel_3 CB, 3 DE, 1 FS, 3 ILB, 1 SS",7.100143181642239e-05
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",7.090984847760857e-05
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 1 MLB, 2 SS",6.991767866943624e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 1 OLB, 1 SS",6.944507397481162e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 2 ILB, 1 NT, 1 OLB",6.930719358817307e-05
+"defense_personnel_2 CB, 2 DT, 1 FS, 2 MLB, 1 NT, 1 OLB, 2 SS",6.873161068196516e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",6.868550525966702e-05
+"defense_personnel_2 CB, 2 DT, 2 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",6.84547209402351e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 1 ILB, 1 SS",6.805818436369264e-05
+"defense_personnel_3 CB, 3 DE, 2 FS, 2 ILB, 1 OLB",6.73888191802099e-05
+"defense_personnel_4 CB, 2 DE, 1 FS, 1 ILB, 1 NT, 2 OLB",6.715681915674206e-05
+"defense_personnel_4 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 2 OLB",6.706269243630746e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 ILB, 1 NT, 3 OLB",6.624915337092342e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 OLB, 2 SS",6.576267717353139e-05
+"defense_personnel_4 DL, 6 LB, 1 DB",6.553444005663196e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 2 SS",6.473248691647536e-05
+"offense_personnel_3 G, 1 QB, 2 T, 1 TE, 4 WR",6.402165791620844e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 2 OLB, 1 SS",6.326686510554948e-05
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",6.304058534794368e-05
+"defense_personnel_3 CB, 4 DE, 1 DT, 1 FS, 1 OLB, 1 SS",6.292100728158322e-05
+"defense_personnel_2 CB, 3 DE, 3 DT, 1 FS, 1 OLB, 1 SS",6.284050845461222e-05
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 3 T, 3 TE, 1 WR",6.218512158523022e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 1 MLB, 1 OLB, 1 SS",6.130543056558865e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 1 NT, 2 OLB",6.079097265429524e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 3 MLB, 1 NT, 1 OLB, 1 SS",6.055080680916675e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 1 MLB, 2 OLB, 1 SS",5.975060288588061e-05
+"defense_personnel_2 CB, 3 DT, 2 ILB, 2 OLB, 2 SS",5.963745620972562e-05
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 2 T, 3 WR",5.933353241080352e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",5.931563338088981e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 ILB, 1 OLB, 2 SS",5.9247926054968125e-05
+"defense_personnel_1 CB, 2 DE, 1 DT, 2 FS, 2 ILB, 2 OLB, 1 SS",5.912260887129976e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 1 MLB, 1 NT, 1 OLB, 1 SS",5.889394164870989e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 3 FS, 1 ILB, 2 OLB",5.858021052372473e-05
+"offense_personnel_1 RB, 2 TE, 3 WR",5.8332184301481516e-05
+"defense_personnel_1 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",5.785884238006607e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 MLB, 1 NT, 1 OLB, 2 SS",5.7190507000199764e-05
+"defense_personnel_2 CB, 2 DT, 2 FS, 1 NT, 2 OLB, 2 SS",5.717963411881563e-05
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",5.664034089417176e-05
+"defense_personnel_3 CB, 3 DE, 1 FS, 2 ILB, 1 NT, 1 SS",5.660515842540537e-05
+"defense_personnel_2 CB, 2 DT, 1 FS, 2 MLB, 1 NT, 2 OLB, 1 SS",5.655058052401072e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 3 ILB, 1 OLB",5.603681762429689e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 1 ILB, 2 OLB, 1 SS",5.552584749417181e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 3 FS, 1 ILB",5.510730621898698e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 2 ILB, 1 OLB",5.4822540912687164e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 ILB, 2 OLB, 1 SS",5.471927623432248e-05
+"defense_personnel_2 CB, 2 DE, 3 DT, 2 FS, 1 MLB, 1 SS",5.464572401450135e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 OLB, 2 SS",5.442490628954478e-05
+"defense_personnel_2 CB, 1 DT, 2 FS, 2 ILB, 3 OLB, 1 SS",5.436540415698862e-05
+"defense_personnel_2 CB, 3 DT, 1 FS, 2 ILB, 2 OLB, 1 SS",5.332689249819116e-05
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 RB, 1 T, 2 TE, 1 WR",5.233224769483198e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 3 ILB, 1 NT, 1 OLB, 1 SS",5.2091504685339045e-05
+"defense_personnel_3 CB, 3 DE, 1 FS, 1 ILB, 2 OLB, 1 SS",5.111819049796619e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 2 OLB, 2 SS",5.1103993719967304e-05
+"defense_personnel_1 DE, 2 DT, 2 FS, 3 ILB, 1 NT, 1 OLB, 1 SS",5.1073581801623185e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",5.050030942270374e-05
+"offense_personnel_4 G, 1 QB, 1 RB, 1 T, 1 TE, 3 WR",5.022877451755337e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 1 ILB, 2 OLB",5.018101382968614e-05
+"defense_personnel_5 DL, 4 LB, 2 DB",4.9547581013985294e-05
+"defense_personnel_2 CB, 1 DE, 2 FS, 2 ILB, 3 OLB, 1 SS",4.9083657912230586e-05
+"defense_personnel_2 CB, 1 DE, 2 FS, 2 ILB, 2 NT, 2 OLB",4.8640080901830125e-05
+"offense_personnel_1 C, 1 G, 2 QB, 1 RB, 3 T, 1 TE, 2 WR",4.845873856051947e-05
+"offense_personnel_1 RB, 1 TE, 2 WR,1 LB",4.84263798528538e-05
+"defense_personnel_3 CB, 1 DT, 2 ILB, 3 OLB, 2 SS",4.785455948168731e-05
+"defense_personnel_2 CB, 2 DE, 1 FS, 3 ILB, 2 NT, 1 OLB",4.7338222449623805e-05
+"defense_personnel_2 CB, 2 DT, 2 ILB, 1 NT, 2 OLB, 2 SS",4.719794031738599e-05
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 MLB, 1 NT, 1 OLB, 2 SS",4.7190279102561064e-05
+"defense_personnel_1 CB, 2 DT, 3 FS, 2 ILB, 2 OLB, 1 SS",4.713543653669027e-05
+"defense_personnel_2 CB, 2 DE, 2 FS, 2 ILB, 2 NT, 1 OLB",4.6366185362736366e-05
+"defense_personnel_3 DE, 3 DT, 4 ILB, 1 SS",4.620170496673549e-05
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 1 OLB",4.565606536831333e-05
+"offense_personnel_1 FB, 2 G, 1 QB, 1 RB, 3 T, 1 TE, 2 WR",4.5404490441842744e-05
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",4.5162719327428825e-05
+"defense_personnel_1 DE, 2 DT, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",4.4963155228010604e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 ILB, 1 NT, 2 SS",4.4731402160410885e-05
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 2 ILB, 1 SS",4.412685346248575e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 MLB, 1 OLB, 2 SS",4.4009748175088735e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 MLB, 1 OLB, 1 SS",4.3725811646474516e-05
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 2 T, 3 TE, 1 WR",4.354093939020628e-05
+"defense_personnel_2 CB, 2 DT, 1 FS, 2 ILB, 2 OLB, 2 SS",4.3534085108363526e-05
+"defense_personnel_3 CB, 2 DE, 2 FS, 3 ILB, 1 NT",4.333832448884388e-05
+"offense_personnel_1 C, 1 QB, 1 RB, 4 T, 1 TE, 3 WR",4.327595429087501e-05
+"defense_personnel_4 CB, 1 DE, 2 FS, 2 ILB, 2 OLB",4.3231976437719044e-05
+"defense_personnel_3 CB, 1 FS, 2 MLB, 2 NT, 2 OLB, 1 SS",4.279389526345153e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 MLB, 2 OLB, 3 SS",4.1741899096023475e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 ILB, 2 NT, 1 OLB, 1 SS",4.1070522038452774e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 3 OLB, 2 SS",4.097070972524407e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 FS, 1 OLB, 1 SS",4.069879025588389e-05
+"defense_personnel_1 CB, 1 DE, 2 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",4.023429531059906e-05
+"offense_personnel_2 C, 1 G, 1 QB, 2 RB, 2 T, 1 TE, 2 WR",4.0174011404800503e-05
+"defense_personnel_2 CB, 3 DE, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",3.9294201880980114e-05
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",3.913138948018023e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 MLB, 1 NT, 1 OLB, 2 SS",3.9005895250899736e-05
+"defense_personnel_2 CB, 1 DT, 1 FS, 2 ILB, 3 OLB, 2 SS",3.860194322642033e-05
+"defense_personnel_2 CB, 2 DE, 1 FS, 2 ILB, 1 NT, 1 OLB, 2 SS",3.7821961156519286e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 2 ILB, 2 OLB",3.7655639562566574e-05
+"defense_personnel_2 DL, 6 LB, 3 DB",3.7635495247415344e-05
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 MLB, 2 SS",3.75937319916867e-05
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 3 T, 4 WR",3.7241119338651975e-05
+"defense_personnel_2 CB, 3 DE, 1 FS, 2 ILB, 2 OLB, 1 SS",3.7037487524951044e-05
+"offense_personnel_1 C, 1 QB, 1 RB, 4 T, 3 TE, 1 WR",3.669599722009967e-05
+"defense_personnel_1 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",3.668097772765806e-05
+"offense_personnel_3 G, 1 QB, 2 RB, 2 T, 1 TE, 2 WR",3.6380469901191404e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 ILB, 1 MLB, 2 OLB, 1 SS",3.6299216418501724e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 MLB, 1 OLB, 1 SS",3.6008235047468615e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 FS, 1 ILB, 2 OLB",3.571693308109028e-05
+"offense_personnel_1 G, 1 QB, 1 RB, 4 T, 1 TE, 3 WR",3.5650763367303335e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",3.5432645495738236e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 MLB, 2 OLB, 2 SS",3.5432453012699045e-05
+"offense_personnel_2 QB, 1 RB, 2 TE, 1 WR",3.53949021895962e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 OLB, 2 SS",3.5391496508492876e-05
+"offense_personnel_1 C, 1 G, 1 QB, 3 T, 2 TE, 3 WR",3.523902073987747e-05
+"offense_personnel_0 RB, 3 TE, 2 WR",3.5180796199267777e-05
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 2 T, 3 TE",3.5051091783283434e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 3 OLB, 2 SS",3.4981592909171524e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 MLB, 1 OLB, 1 SS",3.479658860857568e-05
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 RB, 2 T, 1 TE, 1 WR",3.476623767861099e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 3 ILB, 1 NT",3.4580359867730305e-05
+"defense_personnel_3 CB, 3 DE, 3 FS, 1 ILB, 1 OLB",3.42620535998362e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 2 NT, 1 OLB, 1 SS",3.3587915032408556e-05
+"defense_personnel_3 CB, 2 DE, 3 DT, 1 ILB, 2 SS",3.333813158792744e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 1 ILB, 2 OLB",3.332008236894846e-05
+"defense_personnel_3 CB, 3 DE, 2 FS, 1 ILB, 1 OLB, 1 SS",3.324379793236884e-05
+"defense_personnel_2 CB, 1 DT, 1 FS, 1 ILB, 1 NT, 3 OLB, 2 SS",3.309400964188223e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 ILB, 1 OLB, 3 SS",3.2907102998878844e-05
+"defense_personnel_4 CB, 2 DT, 2 ILB, 2 OLB, 1 SS",3.273059895589891e-05
+"offense_personnel_1 C, 1 G, 1 QB, 2 RB, 3 T, 3 TE",3.27257250205073e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 MLB, 1 OLB, 2 SS",3.2679368203946726e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 ILB, 1 OLB, 2 SS",3.265591065130914e-05
+"offense_personnel_1 C, 1 G, 1 QB, 2 RB, 3 T, 1 TE, 2 WR",3.251702510799908e-05
+"defense_personnel_2 CB, 3 DE, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",3.224567203007512e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 2 ILB, 1 OLB, 1 SS",3.2161045066260056e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 OLB, 2 SS",3.2044609387557316e-05
+"offense_personnel_1 C, 3 G, 1 QB, 2 RB, 1 T, 1 TE, 2 WR",3.111076039327942e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 3 OLB, 1 SS",3.081725635903435e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 2 OLB",3.053675495634408e-05
+"defense_personnel_2 CB, 3 DT, 1 FS, 1 ILB, 2 OLB, 2 SS",3.05074750207021e-05
+"defense_personnel_4 CB, 3 DE, 1 DT, 1 FS, 1 OLB, 1 SS",3.0286302439362577e-05
+"defense_personnel_4 CB, 1 DE, 1 FS, 2 ILB, 2 OLB, 1 SS",3.0206215802558507e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 ILB, 1 OLB, 2 SS",3.0051038539493293e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 MLB, 2 NT, 1 OLB, 1 SS",2.966448603658293e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 MLB, 1 NT, 1 SS",2.928936281557322e-05
+"defense_personnel_3 CB, 3 DE, 2 ILB, 1 OLB, 2 SS",2.9269197310415592e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 3 ILB, 2 OLB, 1 SS",2.908095592066695e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 3 ILB, 1 OLB, 1 SS",2.9060307367003963e-05
+"defense_personnel_4 CB, 4 DE, 1 FS, 1 OLB, 1 SS",2.8814361968574525e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 ILB, 1 NT, 2 SS",2.8781970045722548e-05
+"offense_personnel_2 C, 2 G, 1 QB, 1 RB, 1 T, 2 TE, 2 WR",2.8411557962844872e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 1 MLB, 2 OLB, 1 SS",2.8064300692059574e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 MLB, 1 OLB, 2 SS",2.796380113240092e-05
+"defense_personnel_4 DL, 0 LB, 7 DB",2.781957726470102e-05
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 2 OLB, 1 SS",2.731788292057019e-05
+"defense_personnel_3 CB, 1 DT, 2 FS, 2 ILB, 2 OLB, 1 SS",2.6796050982332084e-05
+"defense_personnel_4 CB, 2 DE, 2 FS, 1 ILB, 2 OLB",2.675286120887058e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 MLB, 1 OLB, 1 SS",2.665798877550487e-05
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 2 MLB, 1 SS",2.6619863383274722e-05
+"defense_personnel_3 CB, 1 DT, 2 ILB, 1 NT, 2 OLB, 2 SS",2.6487734750629742e-05
+"defense_personnel_3 CB, 2 DT, 2 FS, 1 MLB, 3 OLB",2.619365350755008e-05
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 1 T, 3 TE, 1 WR",2.6134757041873624e-05
+"defense_personnel_2 CB, 3 DE, 2 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",2.5760289924605154e-05
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 3 T, 1 TE, 3 WR",2.538573818919255e-05
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 OLB",2.531696019892253e-05
+"offense_personnel_1 C, 2 G, 1 QB, 2 RB, 2 T, 3 TE",2.526365263030836e-05
+"offense_personnel_2 QB, 6 OL, 1 RB, 1 TE, 1 WR",2.4874410325364262e-05
+"offense_personnel_1 G, 1 QB, 1 RB, 5 T, 2 TE, 1 WR",2.4803141867171574e-05
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 2 MLB, 1 SS",2.4531842651936668e-05
+"defense_personnel_3 CB, 1 DE, 1 FS, 3 ILB, 2 NT, 1 OLB",2.442692656188948e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 2 OLB",2.4393238707138642e-05
+"defense_personnel_3 CB, 2 DE, 3 DT, 2 FS, 1 ILB",2.4371267336578853e-05
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 RB, 1 T, 3 WR",2.42787597521015e-05
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 FS, 1 MLB, 1 SS",2.4226304197360418e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 1 MLB, 1 OLB, 1 SS",2.343460393912566e-05
+"defense_personnel_3 CB, 2 DE, 1 FS, 3 ILB, 1 OLB, 1 SS",2.326278304672443e-05
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",2.3216092452364628e-05
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 2 ILB, 1 OLB",2.3167802030354226e-05
+"defense_personnel_2 CB, 1 DT, 2 FS, 2 ILB, 2 OLB, 2 SS",2.297960091751907e-05
+"defense_personnel_3 CB, 2 DT, 1 ILB, 1 NT, 2 OLB, 2 SS",2.2931133908281844e-05
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 MLB, 1 NT, 2 OLB, 1 SS",2.2669826421789552e-05
+"offense_personnel_1 C, 1 G, 1 QB, 2 RB, 3 T, 2 TE, 1 WR",2.2632975624210698e-05
+"offense_personnel_7 OL, 1 RB, 0 TE, 2 WR",2.251235382922925e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 MLB, 2 OLB, 1 SS",2.1996726500542275e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 2 OLB",2.1630337767516818e-05
+"offense_personnel_7 OL, 1 RB, 2 TE, 0 WR",2.162506801253769e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 1 MLB, 2 OLB, 2 SS",2.1561648212497756e-05
+"defense_personnel_1 CB, 2 DE, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",2.1531608212916196e-05
+"defense_personnel_4 CB, 2 DE, 1 DT, 2 FS, 1 MLB, 1 OLB",2.14805965997702e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 1 MLB, 1 SS",2.139312968621179e-05
+"defense_personnel_2 CB, 2 DE, 1 FS, 2 ILB, 2 NT, 1 OLB, 1 SS",2.1280873424923237e-05
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 1 SS",2.1202900616057928e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 OLB, 2 SS",2.105193565403789e-05
+"defense_personnel_1 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 2 OLB, 2 SS",2.08713416407187e-05
+"offense_personnel_2 C, 2 G, 1 QB, 1 RB, 2 T, 3 TE",2.0824292902356065e-05
+"defense_personnel_4 CB, 1 DE, 2 DT, 1 FS, 2 OLB, 1 SS",2.081798138542273e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 1 MLB, 2 SS",2.0293396832475257e-05
+"offense_personnel_2 G, 1 QB, 1 RB, 3 T, 3 TE, 1 WR",2.0122985623272785e-05
+"defense_personnel_3 CB, 3 DE, 2 FS, 1 ILB, 1 NT, 1 OLB",2.009603673178451e-05
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",2.0088950817954022e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 2 OLB",2.0056980856070213e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 3 OLB, 1 SS",1.9930041015126012e-05
+"defense_personnel_4 CB, 3 DE, 1 DT, 1 OLB, 2 SS",1.9890897620392756e-05
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 3 ILB, 1 OLB",1.986655074338751e-05
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 ILB, 1 OLB, 2 SS",1.984349104506694e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 MLB, 1 OLB, 3 SS",1.972041522730783e-05
+"defense_personnel_2 CB, 4 DE, 2 FS, 1 ILB, 1 OLB, 1 SS",1.959395646575375e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",1.9458454015886304e-05
+"defense_personnel_3 CB, 1 DE, 2 FS, 2 ILB, 2 OLB, 1 SS",1.9329536674964354e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 MLB, 1 OLB, 2 SS",1.9195968896089294e-05
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 2 T, 3 TE",1.8849354404199718e-05
+"offense_personnel_1 FB, 2 G, 1 QB, 1 RB, 3 T, 3 WR",1.8829348884525425e-05
+"offense_personnel_2 C, 1 FB, 1 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",1.8824349265742394e-05
+"offense_personnel_1 G, 1 QB, 1 RB, 4 T, 2 TE, 2 WR",1.8769759479701452e-05
+"defense_personnel_1 CB, 2 DE, 4 DT, 1 FS, 2 OLB, 1 SS",1.866422942360279e-05
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 2 ILB",1.8600185647747166e-05
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 2 MLB, 1 OLB, 1 SS",1.8556745835329938e-05
+"defense_personnel_3 CB, 3 DT, 2 ILB, 2 OLB, 1 SS",1.8533556169068377e-05
+"defense_personnel_3 CB, 2 DT, 2 FS, 1 NT, 2 OLB, 1 SS",1.8514541401544455e-05
+"defense_personnel_3 CB, 1 DE, 1 ILB, 2 NT, 2 OLB, 2 SS",1.8350287792235463e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 1 OLB",1.8227622756612158e-05
+"defense_personnel_2 DE, 2 DT, 1 FS, 3 ILB, 2 OLB, 1 SS",1.8101160542842517e-05
+"defense_personnel_3 CB, 1 DE, 2 FS, 4 ILB, 1 NT",1.8006409160819517e-05
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",1.7908090590948668e-05
+"defense_personnel_2 CB, 2 DT, 1 FS, 3 ILB, 1 NT, 1 OLB, 1 SS",1.780886816774072e-05
+"defense_personnel_2 CB, 3 DT, 2 FS, 1 ILB, 1 NT, 2 OLB",1.766041394273242e-05
+"defense_personnel_2 CB, 1 DT, 2 FS, 1 ILB, 3 OLB, 2 SS",1.7555323013216425e-05
+"defense_personnel_2 CB, 1 DE, 2 FS, 1 ILB, 2 NT, 2 OLB, 1 SS",1.7193144035702473e-05
+"defense_personnel_2 CB, 3 DE, 2 DT, 2 FS, 1 ILB, 1 SS",1.7072150771033643e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 NT, 1 OLB, 1 SS",1.695100546287294e-05
+"defense_personnel_3 CB, 2 DT, 1 FS, 1 ILB, 3 OLB, 1 SS",1.691672621492854e-05
+"defense_personnel_2 CB, 2 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",1.6872708303420128e-05
+"defense_personnel_3 CB, 1 DT, 2 FS, 1 NT, 3 OLB, 1 SS",1.6802830218220878e-05
+"defense_personnel_4 CB, 2 DT, 1 FS, 3 OLB, 1 SS",1.6642827724039182e-05
+"defense_personnel_2 CB, 3 DT, 2 FS, 1 MLB, 3 OLB",1.6636045845224326e-05
+"defense_personnel_1 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 2 OLB, 2 SS",1.660806942096865e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 ILB, 1 NT, 1 OLB, 2 SS",1.6592247284118468e-05
+"defense_personnel_2 CB, 1 DE, 2 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",1.6357784897111186e-05
+"offense_personnel_1 G, 1 QB, 1 RB, 5 T, 1 TE, 2 WR",1.6253635816564524e-05
+"defense_personnel_3 CB, 3 DT, 1 ILB, 2 OLB, 2 SS",1.595462984701157e-05
+"defense_personnel_1 CB, 2 DE, 4 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",1.5874280139263397e-05
+"offense_personnel_2 QB, 1 RB, 0 TE, 3 WR",1.5834581266768816e-05
+"offense_personnel_7 OL, 1 RB, 3 TE, 0 WR",1.5805452028373993e-05
+"defense_personnel_3 CB, 3 DE, 2 FS, 1 MLB, 1 OLB, 1 SS",1.5783123944637805e-05
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 2 ILB, 2 SS",1.572779184918547e-05
+"defense_personnel_2 CB, 2 DE, 2 FS, 2 ILB, 2 OLB, 1 SS",1.570411040852859e-05
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 3 OLB, 1 SS",1.5473000286845667e-05
+"defense_personnel_3 CB, 3 DE, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",1.542355998393881e-05
+"defense_personnel_3 CB, 3 DE, 3 FS, 1 OLB, 1 SS",1.5130632315651449e-05
+"defense_personnel_4 CB, 3 DE, 1 FS, 1 ILB, 1 OLB, 1 SS",1.5096931900617553e-05
+"defense_personnel_1 CB, 1 DE, 1 DT, 3 FS, 2 ILB, 2 OLB, 1 SS",1.4790347903382212e-05
+"defense_personnel_0 DL, 3 LB, 7 DB, 1 WR",1.447676397151286e-05
+"offense_personnel_6 OL, 1 RB, 2 TE, 0 WR,1 DL",1.4401285950141298e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 3 FS, 1 ILB, 1 OLB",1.4297801628199334e-05
+"defense_personnel_2 CB, 2 DT, 2 FS, 1 ILB, 3 OLB, 1 SS",1.429162524731333e-05
+"defense_personnel_2 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",1.4017689931478769e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 ILB, 1 OLB, 3 SS",1.3934623075916258e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",1.3851678481734339e-05
+"defense_personnel_3 CB, 3 DT, 1 FS, 2 ILB, 2 OLB",1.3755815531390814e-05
+"defense_personnel_2 CB, 3 DE, 2 FS, 2 ILB, 1 OLB, 1 SS",1.3671326859140364e-05
+"offense_personnel_2 C, 2 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",1.3632593853849136e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 3 OLB, 1 SS",1.3428520131813377e-05
+"defense_personnel_1 CB, 2 DE, 4 DT, 2 FS, 2 ILB",1.3307356231559387e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 3 OLB, 1 SS",1.3289338510607667e-05
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 3 OLB, 1 SS",1.3099484196075908e-05
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 MLB, 1 OLB, 2 SS",1.3088458334879826e-05
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 ILB, 1 NT, 2 OLB, 2 SS",1.3087738261742688e-05
+"offense_personnel_1 RB, 1 TE, 2 WR,1 DB",1.3037998655569241e-05
+"defense_personnel_2 CB, 1 DT, 1 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",1.2931363445288719e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 2 SS",1.2738496200412933e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",1.2674071131040544e-05
+"defense_personnel_3 CB, 2 DE, 1 FS, 1 ILB, 2 OLB, 2 SS",1.2538066574561903e-05
+"defense_personnel_4 CB, 1 DE, 2 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",1.2307725520415776e-05
+"defense_personnel_2 CB, 2 FS, 2 ILB, 3 OLB, 2 SS",1.228671366687851e-05
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 3 T, 2 TE",1.2253413973854824e-05
+"defense_personnel_2 CB, 1 DE, 2 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",1.215670347625951e-05
+"defense_personnel_0 DL, 6 LB, 5 DB",1.208762277553119e-05
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 OLB, 2 SS",1.2076287810659065e-05
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 2 OLB, 1 SS",1.2038432965066098e-05
+"defense_personnel_0 DL, 3 LB, 8 DB",1.1943392174310712e-05
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 MLB, 2 NT, 1 OLB, 1 SS",1.190840211456004e-05
+"defense_personnel_3 CB, 2 DT, 2 FS, 1 ILB, 2 OLB, 1 SS",1.1854366482990648e-05
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",1.1777658748639654e-05
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 ILB, 3 OLB, 1 SS",1.1682483550742996e-05
+"defense_personnel_2 CB, 2 DE, 4 DT, 1 ILB, 2 SS",1.1670992250181617e-05
+"defense_personnel_3 CB, 2 DT, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",1.1560118265593373e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 1 MLB, 1 OLB, 2 SS",1.1395764362577983e-05
+"defense_personnel_3 CB, 1 FS, 2 ILB, 3 OLB, 2 SS",1.1152300472583485e-05
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 4 T, 2 TE, 1 WR",1.1041547614986351e-05
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 ILB, 1 NT, 2 SS",1.1031574625732349e-05
+"defense_personnel_3 DE, 2 DT, 4 ILB, 1 OLB, 1 SS",1.0909367598086692e-05
+"defense_personnel_2 CB, 2 FS, 1 ILB, 4 OLB, 2 SS",1.0874327572216315e-05
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 MLB, 3 OLB, 2 SS",1.0743112171899058e-05
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 ILB, 3 OLB, 2 SS",1.0693466069801097e-05
+"defense_personnel_3 CB, 2 FS, 1 ILB, 2 NT, 2 OLB, 1 SS",1.0680157885590257e-05
+"defense_personnel_1 CB, 2 DE, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",1.0469644603021005e-05
+"defense_personnel_3 CB, 1 FS, 1 ILB, 2 NT, 3 OLB, 1 SS",1.0354529679251895e-05
+"defense_personnel_4 CB, 2 DE, 1 FS, 2 ILB, 2 OLB",1.032050401565158e-05
+"defense_personnel_1 CB, 2 DE, 3 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",1.0289510607549861e-05
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 2 OLB",1.0040685222419994e-05
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",1.0025650361051976e-05
+"defense_personnel_2 CB, 1 DT, 2 FS, 2 ILB, 2 NT, 2 OLB",9.970149398839597e-06
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 MLB, 1 NT, 1 OLB, 2 SS",9.821139379398403e-06
+"defense_personnel_3 CB, 3 DE, 2 MLB, 1 NT, 2 SS",9.727186433173009e-06
+"offense_personnel_4 G, 1 QB, 1 RB, 1 T, 2 TE, 2 WR",9.695939512045052e-06
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 3 ILB, 1 SS",9.248657513741658e-06
+"defense_personnel_4 CB, 3 DE, 1 DT, 1 MLB, 2 SS",9.156859002703741e-06
+"defense_personnel_1 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 3 OLB, 2 SS",9.135801873130445e-06
+"defense_personnel_3 CB, 2 DE, 1 ILB, 3 OLB, 2 SS",9.122143553589299e-06
+"defense_personnel_2 CB, 1 DT, 2 FS, 1 ILB, 2 NT, 3 OLB",9.119212647514101e-06
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 ILB, 2 OLB, 2 SS",8.9179092625316e-06
+"offense_personnel_1 C, 3 G, 2 QB, 1 RB, 1 T, 1 TE, 2 WR",8.746229986264962e-06
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 ILB, 1 NT, 1 OLB, 3 SS",8.684686129474317e-06
+"defense_personnel_4 CB, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB",8.628348805775922e-06
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 1 RB, 4 T, 1 TE, 1 WR",8.518707205640968e-06
+"defense_personnel_2 CB, 3 DT, 2 FS, 2 ILB, 2 OLB",8.497300166813677e-06
+"defense_personnel_1 CB, 2 DE, 3 DT, 3 FS, 1 ILB, 1 SS",8.475045189816674e-06
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 MLB, 1 OLB, 2 SS",8.456837988120994e-06
+"offense_personnel_1 C, 1 G, 1 QB, 2 RB, 3 T, 3 WR",8.44255642721946e-06
+"defense_personnel_2 CB, 3 DE, 2 FS, 1 ILB, 1 NT, 2 OLB",8.422521746541404e-06
+"defense_personnel_2 CB, 2 DT, 2 FS, 2 ILB, 1 NT, 2 OLB",8.386115299173755e-06
+"defense_personnel_1 CB, 2 DT, 1 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",8.356984432458737e-06
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 MLB, 2 SS",8.112689858951298e-06
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 ILB, 1 NT, 2 OLB, 1 SS",7.988956739691578e-06
+"offense_personnel_1 C, 1 DT, 3 G, 1 QB, 3 T, 2 TE",7.978358759774679e-06
+"offense_personnel_1 C, 2 G, 1 QB, 2 RB, 2 T, 3 WR",7.956897992626219e-06
+"defense_personnel_1 CB, 2 DE, 3 DT, 1 FS, 1 MLB, 2 OLB, 1 SS",7.926980557356554e-06
+"defense_personnel_3 CB, 2 DT, 1 ILB, 2 OLB, 3 SS",7.764113643650932e-06
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 1 MLB, 2 OLB, 2 SS",7.640559964609271e-06
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 ILB, 1 NT, 2 OLB",7.560662044047161e-06
+"defense_personnel_3 CB, 1 DE, 2 ILB, 3 OLB, 2 SS",7.449723436030321e-06
+"defense_personnel_4 CB, 3 DE, 2 FS, 1 OLB, 1 SS",7.426369278629138e-06
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 2 MLB, 1 OLB, 2 SS",7.264055940311765e-06
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 ILB, 2 OLB, 2 SS",7.253388690808475e-06
+"defense_personnel_2 CB, 2 DE, 2 DT, 3 ILB, 2 SS",7.212068418544161e-06
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 ILB, 2 OLB, 1 SS",7.143729044853918e-06
+"offense_personnel_3 G, 1 QB, 1 RB, 2 T, 4 WR",7.135569240109902e-06
+"offense_personnel_6 OL, 0 RB, 1 TE, 0 WR,1 P,1 LS,1 DL,1 K",7.075852738235175e-06
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 2 OLB, 1 SS",6.97934836316818e-06
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 1 ILB, 1 OLB, 2 SS",6.959646123957478e-06
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 NT, 2 OLB, 1 SS",6.87166288121323e-06
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 OLB, 2 SS",6.777371999197014e-06
+"defense_personnel_3 CB, 1 DT, 2 FS, 1 ILB, 1 NT, 3 OLB",6.611831207075531e-06
+"offense_personnel_2 QB, 2 RB, 1 TE, 1 WR",6.6017537800519965e-06
+"defense_personnel_3 DE, 1 DT, 4 ILB, 1 NT, 1 OLB, 1 SS",6.4856873365566635e-06
+"defense_personnel_2 CB, 2 DT, 2 FS, 1 ILB, 1 NT, 3 OLB",6.485676689957338e-06
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 FS, 2 OLB, 1 SS",6.381899352876307e-06
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 MLB, 2 OLB, 2 SS",6.375364346934542e-06
+"defense_personnel_4 CB, 1 DE, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",6.280854200204209e-06
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 MLB, 2 OLB, 2 SS",6.203044278062682e-06
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 2 T, 4 TE",6.188864432011974e-06
+"defense_personnel_2 CB, 1 DE, 2 FS, 4 ILB, 1 NT, 1 OLB",6.186251754692072e-06
+"offense_personnel_2 C, 2 G, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",6.1474897913622505e-06
+"defense_personnel_1 CB, 1 DT, 4 FS, 2 ILB, 1 NT, 2 OLB",6.040915021171828e-06
+"defense_personnel_3 CB, 2 DE, 2 FS, 1 ILB, 2 OLB, 1 SS",5.8139755342438965e-06
+"defense_personnel_2 CB, 2 DE, 2 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",5.806419965091926e-06
+"defense_personnel_1 CB, 3 DE, 2 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",5.79706831823927e-06
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 3 ILB, 1 NT, 1 SS",5.7782606049613934e-06
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 2 ILB, 2 SS",5.630346026631234e-06
+"offense_personnel_6 OL, 2 RB, 2 TE, 1 WR",5.604902566890026e-06
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 1 ILB, 1 MLB, 1 OLB, 1 SS",5.570178282855175e-06
+"offense_personnel_1 C, 1 DT, 4 G, 1 QB, 2 T, 2 TE",5.551249443966452e-06
+"defense_personnel_2 CB, 2 DE, 2 DT, 3 FS, 1 ILB, 1 SS",5.546732703102578e-06
+"defense_personnel_3 CB, 1 DE, 1 ILB, 1 NT, 3 OLB, 2 SS",5.504374632529612e-06
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 ILB, 2 NT, 1 SS",5.405720200191893e-06
+"defense_personnel_3 CB, 2 DT, 2 FS, 1 ILB, 3 OLB",5.3717246232222375e-06
+"defense_personnel_4 CB, 2 DE, 1 DT, 2 FS, 1 MLB, 1 SS",5.351657317594013e-06
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 1 RB, 3 T, 3 WR",5.287812786120139e-06
+"defense_personnel_1 CB, 2 DE, 2 DT, 2 FS, 2 ILB, 2 SS",5.195075256986306e-06
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 ILB, 3 SS",5.190403088666611e-06
+"defense_personnel_2 CB, 2 DE, 3 DT, 2 FS, 2 ILB",5.183404800550666e-06
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 1 ILB, 2 SS",5.147759615325339e-06
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 2 MLB",4.994250149391299e-06
+"offense_personnel_3 C, 1 FB, 1 G, 1 QB, 1 RB, 2 T, 2 TE",4.9605967631018775e-06
+"offense_personnel_2 C, 1 FB, 1 G, 1 QB, 2 T, 1 TE, 3 WR",4.878744020023419e-06
+"offense_personnel_1 RB, 3 TE, 2 WR",4.78569288394258e-06
+"defense_personnel_1 DE, 2 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",4.618345275134641e-06
+"defense_personnel_3 CB, 3 DE, 1 FS, 3 ILB, 1 NT",4.557480870564848e-06
+"offense_personnel_1 RB, 1 TE, 0 WR,1 P,4 LB,1 LS,3 DB",4.555889923921254e-06
+"defense_personnel_3 CB, 3 DE, 1 FS, 2 ILB, 2 SS",4.447373767183668e-06
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 RB, 2 T, 2 TE",4.442981906312638e-06
+"offense_personnel_2 C, 2 G, 1 QB, 1 RB, 3 T, 2 TE",4.243772044776538e-06
+"defense_personnel_3 CB, 3 DE, 1 ILB, 2 OLB, 2 SS",4.2178305167846674e-06
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 1 ILB, 1 OLB, 1 SS",4.2118760559454534e-06
+"defense_personnel_4 CB, 3 DE, 1 DT, 1 FS, 1 MLB, 1 SS",4.2030326592173514e-06
+"defense_personnel_2 CB, 2 DE, 1 FS, 1 ILB, 2 NT, 2 OLB, 1 SS",4.1600419934200396e-06
+"defense_personnel_3 CB, 2 DE, 1 DT, 3 FS, 1 OLB, 1 SS",4.115651955800919e-06
+"defense_personnel_4 CB, 1 DE, 1 FS, 1 ILB, 2 OLB, 2 SS",4.093188382515621e-06
+"defense_personnel_2 CB, 1 DE, 1 FS, 3 ILB, 1 NT, 2 OLB, 1 SS",4.041515555511121e-06
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 ILB, 1 NT, 2 SS",3.996225822116173e-06
+"offense_personnel_2 RB, 2 TE, 2 WR",3.9598222976886036e-06
+"defense_personnel_1 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",3.9129780157107725e-06
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 3 OLB, 1 SS",3.8833572719375414e-06
+"defense_personnel_2 CB, 3 DE, 1 FS, 3 ILB, 1 OLB, 1 SS",3.856305939786453e-06
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB",3.846567044840986e-06
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 FS, 1 MLB, 1 OLB",3.730841127558045e-06
+"offense_personnel_1 C, 2 G, 2 QB, 1 RB, 2 T, 2 TE, 1 WR",3.709811487684788e-06
+"defense_personnel_4 CB, 1 DE, 1 FS, 1 ILB, 3 OLB, 1 SS",3.6967030404400443e-06
+"defense_personnel_2 CB, 1 DE, 1 FS, 3 ILB, 2 NT, 1 OLB, 1 SS",3.696199824434384e-06
+"defense_personnel_1 CB, 2 DE, 2 FS, 2 ILB, 2 OLB, 2 SS",3.6623345504364255e-06
+"defense_personnel_3 DL, 3 LB, 4 DB",3.612137429213497e-06
+"defense_personnel_3 CB, 2 DE, 1 ILB, 1 NT, 2 OLB, 2 SS",3.5841838313494386e-06
+"defense_personnel_4 CB, 3 DE, 1 DT, 2 MLB, 1 SS",3.5620311961939494e-06
+"offense_personnel_3 G, 1 QB, 1 RB, 3 T, 1 TE, 2 WR",3.558478433875118e-06
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 FS, 1 ILB, 1 OLB",3.4467572942324628e-06
+"defense_personnel_1 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 1 NT, 1 OLB, 2 SS",3.4323518722359112e-06
+"defense_personnel_1 CB, 1 DE, 2 DT, 2 FS, 2 ILB, 1 OLB, 2 SS",3.3411482858414084e-06
+"defense_personnel_2 CB, 4 DE, 2 FS, 2 ILB, 1 SS",3.3215584465122414e-06
+"defense_personnel_2 CB, 2 DE, 2 ILB, 1 NT, 1 OLB, 3 SS",3.313423046463357e-06
+"defense_personnel_2 DL, 3 LB, 5 DB",3.222488311639761e-06
+"defense_personnel_4 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",3.215933771941505e-06
+"defense_personnel_2 CB, 1 DT, 1 FS, 2 MLB, 2 NT, 2 OLB, 1 SS",3.153317595717607e-06
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 ILB, 1 NT, 1 OLB, 2 SS",3.13665371113714e-06
+"defense_personnel_4 CB, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",3.1358078664831917e-06
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 1 ILB, 1 OLB, 2 SS",3.118274045529472e-06
+"defense_personnel_1 CB, 3 DE, 2 DT, 3 FS, 1 ILB, 1 SS",3.0548013557544996e-06
+"defense_personnel_2 CB, 1 DT, 1 FS, 2 MLB, 2 NT, 1 OLB, 2 SS",3.0287055663030163e-06
+"defense_personnel_4 CB, 2 DE, 1 FS, 1 MLB, 2 OLB, 1 SS",3.0025981172986224e-06
+"defense_personnel_3 CB, 1 DE, 2 FS, 1 ILB, 1 NT, 3 OLB",2.9753832294162603e-06
+"defense_personnel_4 CB, 3 DE, 1 DT, 2 FS, 1 OLB",2.9069978638572882e-06
+"defense_personnel_2 CB, 2 DE, 2 DT, 3 FS, 1 MLB, 1 OLB",2.8862400416972935e-06
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 MLB, 1 NT, 2 SS",2.8263426745724168e-06
+"defense_personnel_3 CB, 2 DE, 1 FS, 3 OLB, 2 SS",2.82027847509903e-06
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 3 T, 3 TE",2.6979471928313007e-06
+"offense_personnel_2 RB, 0 TE, 1 WR,1 P,4 LB,1 LS,2 DB",2.688088939404675e-06
+"defense_personnel_1 CB, 3 DE, 2 FS, 2 ILB, 1 NT, 2 OLB",2.637657247098454e-06
+"defense_personnel_4 CB, 1 DT, 2 ILB, 1 NT, 2 OLB, 1 SS",2.6129681132559455e-06
+"offense_personnel_1 FB, 3 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",2.589412217219747e-06
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 1 MLB, 2 SS",2.5236985806814825e-06
+"defense_personnel_3 CB, 1 DT, 2 FS, 1 ILB, 3 OLB, 1 SS",2.507952050602626e-06
+"defense_personnel_3 CB, 1 FS, 2 MLB, 1 NT, 2 OLB, 2 SS",2.3501099725378137e-06
+"defense_personnel_3 DL, 2 LB, 5 DB",2.295810661990478e-06
+"defense_personnel_2 CB, 3 FS, 1 ILB, 3 OLB, 2 SS",2.2900279205782437e-06
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",2.224420716099045e-06
+"defense_personnel_2 CB, 1 DT, 1 FS, 3 ILB, 2 OLB, 2 SS",2.1714952142001493e-06
+"defense_personnel_1 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 2 OLB, 1 SS",2.1470965944193176e-06
+"defense_personnel_2 CB, 1 FS, 2 ILB, 4 OLB, 2 SS",2.129361144840966e-06
+"defense_personnel_3 CB, 4 DE, 1 FS, 2 ILB, 1 SS",2.1289723331993375e-06
+"offense_personnel_1 FB, 3 G, 1 QB, 1 RB, 3 T, 2 TE",2.1221183779806e-06
+"offense_personnel_8 OL, 1 RB, 0 TE, 1 WR",2.0561553185234556e-06
+"offense_personnel_3 RB, 1 TE, 1 WR",2.0320939203631492e-06
+"defense_personnel_4 CB, 2 DE, 2 DT, 2 MLB, 1 SS",2.0300774736515307e-06
+"defense_personnel_3 CB, 1 DE, 3 DT, 2 FS, 2 ILB",1.8797841883092102e-06
+"offense_personnel_1 RB, 3 TE, 0 WR,1 LB",1.7695047983919285e-06
+"defense_personnel_3 CB, 2 DE, 1 DT, 3 FS, 2 OLB",1.7611647488527623e-06
+"defense_personnel_2 CB, 3 DE, 1 FS, 2 ILB, 1 NT, 2 SS",1.7533064541457753e-06
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 2 OLB, 1 SS",1.6828016743566872e-06
+"offense_personnel_1 C, 1 G, 1 ILB, 1 QB, 1 RB, 3 T, 1 TE, 2 WR",1.6302427800440633e-06
+"defense_personnel_2 CB, 2 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",1.6282751070274402e-06
+"offense_personnel_1 RB, 2 TE, 1 WR,1 LB",1.490229629447867e-06
+"offense_personnel_3 RB, 0 TE, 2 WR",1.4742709991177432e-06
+"defense_personnel_2 CB, 3 DT, 1 FS, 1 ILB, 3 OLB, 1 SS",1.4070494362554615e-06
+"offense_personnel_2 RB, 1 TE, 1 WR,1 P,3 LB,1 LS,2 DB",1.340039733108872e-06
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 ILB, 3 SS",1.3028406967700206e-06
+"offense_personnel_2 C, 3 G, 1 QB, 1 RB, 2 T, 2 TE",1.296311085523619e-06
+"defense_personnel_3 CB, 2 DE, 3 DT, 1 FS, 1 ILB, 1 OLB",1.161929637344525e-06
+"defense_personnel_2 CB, 1 DE, 3 ILB, 2 NT, 1 OLB, 2 SS",1.157180136634158e-06
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",1.1563931934768758e-06
+"defense_personnel_3 CB, 1 DT, 2 FS, 2 ILB, 1 NT, 2 OLB",1.0400836418037797e-06
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 MLB, 1 OLB, 1 SS",9.954693246415554e-07
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 1 OLB, 2 SS",9.87983015133765e-07
+"offense_personnel_1 G, 1 QB, 1 RB, 5 T, 3 WR",9.271076318127604e-07
+"defense_personnel_2 CB, 3 DT, 1 FS, 2 ILB, 1 NT, 2 OLB",9.009133702545618e-07
+"defense_personnel_3 CB, 3 DT, 3 ILB, 1 OLB, 1 SS",7.571229212375807e-07
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 1 ILB, 1 NT, 2 OLB",7.199629000727476e-07
+"defense_personnel_1 DL, 4 LB, 5 DB, 1 OL",7.177741564381431e-07
+"defense_personnel_2 CB, 2 DE, 1 FS, 3 ILB, 2 NT, 1 SS",7.145510339896553e-07
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 3 OLB",6.428809430308581e-07
+"defense_personnel_3 CB, 3 DT, 1 FS, 1 ILB, 1 OLB, 2 SS",6.331324197571878e-07
+"offense_personnel_7 OL, 2 RB, 0 TE, 1 WR",6.327625063735561e-07
+"defense_personnel_1 CB, 1 DE, 2 DT, 2 FS, 2 ILB, 2 OLB, 1 SS",6.187927262064245e-07
+"defense_personnel_1 DL, 2 LB, 8 DB",6.06902934032897e-07
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 4 T, 1 TE, 2 WR",5.656563577813512e-07
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 3 ILB, 1 SS",5.270770669421645e-07
+"defense_personnel_1 CB, 1 DE, 3 DT, 1 FS, 2 ILB, 2 OLB, 1 SS",5.244780929390031e-07
+"offense_personnel_1 C, 3 G, 2 QB, 1 RB, 2 T, 1 TE, 1 WR",5.115730802626971e-07
+"defense_personnel_1 CB, 2 DE, 1 DT, 2 FS, 2 ILB, 1 OLB, 2 SS",4.920347119342794e-07
+"defense_personnel_3 CB, 2 DE, 1 FS, 3 ILB, 1 NT, 1 OLB",4.199330116365587e-07
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 2 OLB",3.369639490399185e-07
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 MLB, 1 OLB, 1 SS",3.3333372806822814e-07
+"defense_personnel_1 DL, 6 LB, 4 DB",3.32203188125293e-07
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 4 T, 3 WR",3.179550673056638e-07
+"defense_personnel_2 CB, 3 DE, 1 FS, 2 ILB, 1 NT, 2 OLB",3.160976358773637e-07
+"defense_personnel_6 DL, 1 LB, 4 DB",2.612913920217336e-07
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 3 T, 2 WR",2.2644426950006777e-07
+"offense_personnel_1 C, 3 G, 2 QB, 1 RB, 1 T, 2 TE, 1 WR",1.5444905776423016e-07
+"defense_personnel_2 DL, 4 LB, 4 DB, 1 OL",1.0494762214442314e-07
+"offense_personnel_6 OL, 1 RB, 3 TE, 1 WR",8.684632225874657e-08
+"defense_personnel_3 CB, 3 DT, 2 FS, 2 ILB, 1 OLB",2.4143874135028828e-08
+"offense_personnel_2 C, 1 FB, 2 G, 1 QB, 1 RB, 1 T, 1 TE, 2 WR",1.007029671239572e-08
+"offense_personnel_3 G, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",3.39636277651213e-09
+"defense_personnel_4 CB, 3 DE, 2 FS, 2 ILB",0.0
+"offense_personnel_0 RB, 1 TE, 2 WR,1 P,3 LB,1 LS,3 DB",0.0
+"defense_personnel_4 DL, 2 LB, 3 DB, 1 WR,1 OL",0.0
+"defense_personnel_4 DL, 1 LB, 5 DB",0.0
+"defense_personnel_4 DE, 3 DT, 2 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_4 DE, 2 DT, 4 ILB, 1 SS",0.0
+"defense_personnel_4 DE, 1 DT, 3 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 4 DE, 2 MLB, 1 SS",0.0
+"defense_personnel_4 CB, 4 DE, 1 DT, 1 FS, 1 SS",0.0
+"defense_personnel_4 CB, 3 FS, 2 ILB, 2 SS",0.0
+"defense_personnel_4 CB, 3 FS, 1 ILB, 2 SS, 1 WR",0.0
+"defense_personnel_4 CB, 3 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 3 DT, 1 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_4 CB, 3 DT, 1 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_4 CB, 3 DE, 2 MLB, 1 NT, 1 SS",0.0
+"defense_personnel_4 CB, 3 DE, 2 ILB, 1 NT, 1 SS",0.0
+offense_personnel_,0.0
+"offense_personnel_0 RB, 2 TE, 1 WR,1 P,4 LB,1 LS,2 DB",0.0
+"offense_personnel_0 RB, 2 TE, 1 WR,1 P,3 LB,1 LS,1 DL,2 DB",0.0
+"defense_personnel_5 CB, 1 DE, 1 MLB, 1 OLB, 3 SS",0.0
+"defense_personnel_5 CB, 1 DE, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_4 DT, 3 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_5 CB, 1 DE, 2 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_5 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 OLB",0.0
+"offense_personnel_1 C, 1 DT, 2 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 DT, 2 G, 1 K, 1 LS, 1 P, 3 T, 1 TE",0.0
+"offense_personnel_1 C, 1 DT, 1 G, 1 QB, 1 RB, 4 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 DT, 1 G, 1 QB, 1 RB, 3 T, 3 TE",0.0
+"offense_personnel_1 C, 1 DT, 1 G, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",0.0
+"defense_personnel_2 CB, 1 DE, 4 DT, 1 MLB, 3 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 4 DT, 1 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 4 DT, 1 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 4 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 FS, 2 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 3 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 3 FS, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 3 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_1 DL, 3 LB, 4 DB, 1 RB,2 WR",0.0
+"defense_personnel_1 DL, 3 LB, 4 DB, 1 RB,1 TE,1 WR",0.0
+"defense_personnel_1 DL, 3 LB, 4 DB, 1 RB,1 QB,1 WR",0.0
+"defense_personnel_1 DL, 3 LB, 3 DB, 1 RB,1 TE,2 WR",0.0
+"defense_personnel_2 CB, 1 FS, 3 ILB, 2 OLB, 1 RB, 1 SS, 1 WR",0.0
+"defense_personnel_2 CB, 1 FS, 3 ILB, 1 OLB, 1 TE, 3 WR",0.0
+"defense_personnel_2 CB, 1 FS, 3 ILB, 1 OLB, 1 SS, 1 TE, 1 WR",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 OLB, 2 SS",0.0
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 RB, 2 T, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 RB, 1 T, 3 TE",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 2 QB, 2 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 2 QB, 1 RB, 2 T, 2 TE",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 4 T, 2 TE",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 3 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 2 T, 4 WR",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 2 T, 3 TE, 1 WR",0.0
+"defense_personnel_2 CB, 1 DT, 1 FS, 2 MLB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DT, 1 FS, 1 ILB, 2 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DT, 1 FS, 1 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 FS, 3 ILB, 1 OLB, 1 RB, 1 TE, 2 WR",0.0
+"defense_personnel_2 CB, 1 FS, 3 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 FS, 2 MLB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 FS, 2 ILB, 1 NT, 3 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DT, 3 FS, 2 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DT, 2 ILB, 1 NT, 2 OLB, 3 SS",0.0
+"defense_personnel_2 CB, 1 DT, 2 FS, 1 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DT, 2 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 MLB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 2 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 3 OLB",0.0
+"defense_personnel_2 CB, 1 FS, 3 ILB, 2 OLB, 1 SS, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 2 T, 2 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 2 RB, 2 T, 2 WR",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 LB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 DL, 4 LB, 5 DB, 1 RB",0.0
+"defense_personnel_1 DL, 4 LB, 5 DB",0.0
+"defense_personnel_1 DL, 3 LB, 4 DB, 1 TE,2 WR",0.0
+"defense_personnel_1 DE, 2 DT, 2 FS, 3 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_1 DE, 2 DT, 2 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_1 DE, 2 DT, 1 FS, 3 MLB, 2 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_1 DE, 1 DT, 2 ILB, 2 NT, 4 OLB, 1 SS",0.0
+"defense_personnel_1 DE, 1 DT, 2 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 2 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 1 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 MLB, 2 OLB, 3 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 ILB, 3 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 3 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 3 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 3 MLB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 MLB, 2 NT, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 1 FS, 2 MLB, 1 NT, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 3 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 3 FS, 1 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 MLB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 MLB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 ILB, 1 NT, 3 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 2 FS, 2 ILB, 2 OLB",0.0
+"defense_personnel_1 DL, 3 LB, 2 DB, 2 RB,3 WR",0.0
+"defense_personnel_1 DL, 2 LB, 7 DB, 1 WR",0.0
+"defense_personnel_1 DL, 2 LB, 4 DB, 1 RB,1 TE,2 WR",0.0
+"defense_personnel_1 DL, 2 LB, 3 DB, 2 RB,1 TE,2 WR",0.0
+"defense_personnel_1 DE, 4 DT, 2 FS, 4 ILB",0.0
+"defense_personnel_1 DE, 4 DT, 2 FS, 3 ILB, 1 SS",0.0
+"defense_personnel_1 DE, 4 DT, 1 FS, 3 ILB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 MLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 FS, 4 ILB, 2 NT",0.0
+"defense_personnel_2 CB, 2 DE, 1 FS, 3 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 FS, 3 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 FS, 2 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 1 FS, 2 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 4 FS, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 3 MLB, 1 NT, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 3 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 1 DT, 3 FS, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 3 DT, 2 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 3 DT, 2 FS, 2 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 3 DT, 2 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 3 DT, 1 FS, 2 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 3 DT, 1 FS, 2 ILB, 1 NT, 3 OLB",0.0
+"defense_personnel_1 CB, 3 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 3 DE, 3 DT, 2 FS, 2 ILB",0.0
+"defense_personnel_1 CB, 3 DE, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 MLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 MLB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 2 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 2 OLB, 1 WR",0.0
+"defense_personnel_1 CB, 3 DE, 1 DT, 2 ILB, 1 OLB, 3 SS",0.0
+"defense_personnel_1 CB, 3 DE, 1 DT, 2 FS, 1 ILB, 1 MLB, 2 SS",0.0
+"defense_personnel_1 CB, 3 DE, 1 DT, 1 FS, 2 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DT, 4 FS, 2 ILB, 2 OLB",0.0
+"defense_personnel_1 CB, 2 DT, 3 FS, 2 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 FS, 2 ILB, 1 NT",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 ILB, 1 NT, 3 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 1 FS, 3 MLB, 1 SS",0.0
+"defense_personnel_1 DE, 1 DT, 1 FS, 3 MLB, 3 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_1 DE, 1 DT, 1 FS, 2 ILB, 2 NT, 4 OLB",0.0
+"defense_personnel_1 DE, 1 DT, 1 FS, 2 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 4 DE, 2 DT, 3 ILB, 1 SS",0.0
+"defense_personnel_1 CB, 4 DE, 2 DT, 2 ILB, 2 SS",0.0
+"defense_personnel_1 CB, 4 DE, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 4 DE, 1 DT, 2 ILB, 1 NT, 2 SS",0.0
+"defense_personnel_1 CB, 3 DT, 2 ILB, 2 OLB, 3 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 FS, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 FS, 1 ILB, 1 NT, 3 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 4 FS, 1 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 4 FS, 1 ILB",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 3 MLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 DT, 2 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 3 DE, 2 DT, 3 FS, 2 ILB",0.0
+"defense_personnel_1 CB, 3 DE, 2 DT, 2 MLB, 1 NT, 2 SS",0.0
+"defense_personnel_1 CB, 3 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 3 DE, 1 FS, 2 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 3 DE, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 3 DE, 1 DT, 3 FS, 1 ILB, 1 OLB, 1 WR",0.0
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 1 ILB, 1 MLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 2 FS, 3 ILB, 2 NT",0.0
+"defense_personnel_2 CB, 2 DE, 2 FS, 3 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_1 CB, 2 DT, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DT, 2 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 4 DT, 1 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 4 DT, 1 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 4 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 3 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 3 DT, 3 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 3 DT, 3 FS, 2 ILB",0.0
+"defense_personnel_1 CB, 2 DE, 3 DT, 2 FS, 1 MLB, 2 OLB",0.0
+"defense_personnel_1 CB, 2 DE, 3 DT, 2 FS, 1 ILB, 2 WR",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 3 ILB, 2 NT, 1 OLB",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 2 MLB, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 2 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 2 FS, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 4 DT, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 4 DT, 1 FS, 2 ILB",0.0
+"defense_personnel_2 CB, 2 DE, 4 DT, 1 FS, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 4 DT, 1 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DE, 3 MLB, 1 OLB, 2 SS, 1 WR",0.0
+"defense_personnel_2 CB, 2 DE, 3 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 3 DT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 3 DT, 2 FS, 1 MLB, 1 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 3 DT, 1 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 3 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 3 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 2 MLB, 3 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DT, 2 FS, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DT, 1 FS, 2 MLB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DT, 1 FS, 2 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DT, 1 FS, 1 ILB, 2 NT, 3 OLB",0.0
+"defense_personnel_2 CB, 2 DE, 4 DT, 2 FS, 1 OLB",0.0
+"defense_personnel_1 CB, 2 DE, 3 DT, 1 FS, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 3 DT, 1 FS, 2 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 FS, 3 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 FS, 2 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 FS, 1 ILB, 1 RB, 2 TE, 2 WR",0.0
+"defense_personnel_1 CB, 2 DE, 2 FS, 1 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 4 FS, 2 ILB",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 4 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 2 FS, 2 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 2 DT, 3 FS, 2 ILB, 2 OLB",0.0
+"defense_personnel_2 CB, 2 DT, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 2 DT, 2 FS, 3 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 2 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 2 FS, 1 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 1 FS, 4 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 2 DT, 1 FS, 1 MLB, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 FS, 3 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_1 CB, 2 DE, 1 FS, 1 ILB, 2 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 4 FS, 1 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 3 FS, 2 ILB",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 3 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 ILB, 3 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 3 ILB",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 2 MLB, 1 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 MLB, 2 NT, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 2 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 ILB, 1 NT, 2 OLB, 1 RB, 1 TE, 1 WR",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 3 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 2 FS, 1 MLB, 2 OLB",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 1 MLB, 2 OLB",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 1 ILB, 1 SS, 1 TE",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 2 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 3 ILB, 1 NT",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 1 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 FS, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 FS, 1 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS, 1 WR",0.0
+"defense_personnel_2 CB, 3 DE, 1 DT, 3 MLB, 2 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 1 FS, 3 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DT, 2 FS, 2 ILB, 3 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DT, 2 FS, 1 ILB, 1 NT, 3 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DE, 4 DT, 2 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 3 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DE, 3 DT, 4 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 3 DE, 2 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 DT, 4 FS",0.0
+"defense_personnel_2 CB, 3 DE, 2 DT, 3 FS, 1 ILB",0.0
+"defense_personnel_2 CB, 3 DE, 2 DT, 2 OLB, 1 RB, 1 WR",0.0
+"defense_personnel_2 CB, 3 DE, 2 DT, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 DT, 1 FS, 2 MLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 DT, 1 FS, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 DT, 1 FS, 1 ILB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 FS, 3 ILB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 FS, 3 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 1 FS, 3 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 3 DE, 1 FS, 2 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DT, 2 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DT, 2 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DT, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DT, 1 FS, 2 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DT, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 3 FS, 1 ILB, 1 TE, 1 WR",0.0
+"defense_personnel_2 CB, 3 DE, 3 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 3 DT, 3 OLB",0.0
+"defense_personnel_2 CB, 3 DE, 3 DT, 2 FS, 1 OLB",0.0
+"defense_personnel_2 CB, 3 DE, 2 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 FS, 3 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 3 DE, 2 FS, 3 ILB, 1 OLB",0.0
+"defense_personnel_2 CB, 3 DE, 2 FS, 2 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 2 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 2 DT, 2 FS, 1 OLB",0.0
+"defense_personnel_2 CB, 4 DE, 2 DT, 1 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 FS, 3 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 FS, 2 ILB, 2 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 4 DE, 1 FS, 1 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 FS, 1 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 4 DE, 1 DT, 2 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 DT, 1 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 DT, 1 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 1 DT, 1 FS, 1 ILB, 2 SS",0.0
+"defense_personnel_2 CB, 3 DT, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 3 DT, 1 FS, 2 MLB, 2 NT, 1 OLB",0.0
+"defense_personnel_2 DE, 3 DT, 1 FS, 1 ILB, 3 MLB, 1 OLB",0.0
+"defense_personnel_2 DE, 2 DT, 3 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_2 DE, 2 DT, 2 ILB, 2 NT, 3 OLB",0.0
+"defense_personnel_2 DE, 2 DT, 2 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 1 DT, 4 ILB, 2 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 1 DT, 3 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 DE, 1 DT, 2 FS, 3 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 1 DT, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 1 DT, 1 FS, 4 ILB, 2 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 4 DT, 2 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_2 CB, 4 DT, 2 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_2 CB, 4 DT, 1 FS, 2 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 4 DE, 2 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 3 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 3 FS, 2 ILB, 2 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 3 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 2 ILB, 2 OLB, 3 SS",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 2 FS, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 2 FS, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 4 DT, 1 MLB, 3 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 4 DT, 1 FS, 2 MLB, 2 SS",0.0
+"defense_personnel_2 DE, 4 DT, 1 FS, 1 ILB, 3 OLB",0.0
+"defense_personnel_2 DE, 3 DT, 3 ILB, 1 NT, 2 SS",0.0
+"defense_personnel_2 DE, 3 DT, 2 MLB, 3 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 3 DT, 2 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 3 DT, 1 FS, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 DE, 3 DT, 1 FS, 2 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_2 DL, 4 LB, 4 DB",0.0
+"defense_personnel_2 DL, 2 LB, 6 DB",0.0
+"defense_personnel_2 DL, 2 LB, 4 DB, 1 TE,2 WR",0.0
+"defense_personnel_2 DL, 1 LB, 8 DB",0.0
+"defense_personnel_2 DL, 1 LB, 7 DB",0.0
+"defense_personnel_2 DL, 1 LB, 4 DB, 1 RB,3 WR",0.0
+"defense_personnel_2 DE, 4 DT, 3 FS, 1 MLB, 1 OLB",0.0
+"defense_personnel_2 DE, 4 DT, 2 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 3 DT, 2 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 1 DE, 3 DT, 2 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 1 DE, 3 DT, 1 FS, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 1 DE, 2 FS, 3 MLB, 1 OLB, 1 SS, 1 TE, 1 WR",0.0
+"defense_personnel_1 CB, 1 DE, 2 FS, 3 ILB, 3 NT, 1 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 4 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 2 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 MLB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 3 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 2 DT, 1 FS, 2 MLB, 2 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 1 DE, 1 FS, 1 ILB, 2 NT, 3 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DE, 1 DT, 4 FS, 2 ILB, 2 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 1 DT, 3 FS, 2 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 3 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DE, 1 DT, 1 FS, 3 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_1 CB, 1 DE, 1 DT, 1 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 DT, 2 FS, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 DL, 4 LB, 4 DB, 1 WR",0.0
+"defense_personnel_0 DL, 4 LB, 4 DB, 1 TE,2 WR",0.0
+"defense_personnel_0 DL, 4 LB, 4 DB, 1 RB,2 WR",0.0
+"defense_personnel_0 DL, 4 LB, 4 DB, 1 RB,1 TE,1 WR",0.0
+"defense_personnel_0 DL, 4 LB, 4 DB, 1 RB,1 QB,1 WR",0.0
+"defense_personnel_0 DL, 4 LB, 3 DB, 2 RB,2 WR",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 3 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 3 FS, 1 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 3 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 ILB, 3 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 3 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 1 FS, 2 MLB, 2 NT, 1 SS",0.0
+"defense_personnel_0 DL, 2 LB, 5 DB, 1 TE,3 WR",0.0
+"defense_personnel_0 DL, 2 LB, 3 DB, 2 RB,2 TE,2 WR",0.0
+"defense_personnel_0 DL, 2 LB, 2 DB, 2 RB,1 TE,4 WR",0.0
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 MLB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 1 FS, 2 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 FS, 1 ILB, 4 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 FB, 1 MLB, 1 OLB, 1 SS, 1 TE, 2 WR",0.0
+"defense_personnel_3 CB, 1 DE, 1 DT, 3 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_1 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_1 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 MLB, 2 SS, 2 WR",0.0
+"defense_personnel_0 DL, 4 LB, 6 DB, 1 WR",0.0
+"defense_personnel_0 DL, 4 LB, 6 DB",0.0
+"defense_personnel_0 DL, 4 LB, 5 DB, 1 RB,1 WR",0.0
+"defense_personnel_0 DL, 4 LB, 4 DB, 3 WR",0.0
+"defense_personnel_0 DL, 4 LB, 4 DB, 2 RB,1 WR",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 2 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 1 FS, 3 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 1 FS, 3 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_0 DL, 4 LB, 3 DB, 1 RB,1 TE,2 WR",0.0
+"defense_personnel_0 DL, 3 LB, 5 DB, 2 TE,1 WR",0.0
+"defense_personnel_0 DL, 3 LB, 5 DB, 2 RB,1 WR",0.0
+"defense_personnel_0 DL, 3 LB, 5 DB, 1 RB,2 WR",0.0
+"defense_personnel_0 DL, 3 LB, 4 DB, 2 TE,2 WR",0.0
+"defense_personnel_0 DL, 3 LB, 4 DB, 2 RB,1 TE,1 WR",0.0
+"defense_personnel_0 DL, 3 LB, 4 DB, 1 RB,2 WR",0.0
+"defense_personnel_0 DL, 3 LB, 4 DB, 1 RB,1 TE,2 WR",0.0
+"defense_personnel_0 DL, 2 LB, 9 DB",0.0
+"defense_personnel_0 DL, 2 LB, 5 DB, 4 WR",0.0
+"defense_personnel_0 DL, 2 LB, 5 DB, 2 RB,2 WR",0.0
+"offense_personnel_6 OL, 3 RB, 0 TE, 1 WR",0.0
+"offense_personnel_6 OL, 2 RB, 1 TE, 0 WR,1 DL",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 MLB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 3 OLB",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 2 RB, 2 T, 1 TE, 1 WR",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 ILB, 2 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 1 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 1 ILB, 1 NT, 3 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 FB, 1 FS, 1 ILB, 1 OLB, 2 SS, 2 WR",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 3 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 3 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 ILB, 2 OLB, 3 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 ILB, 2 NT, 3 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 ILB, 1 OLB, 3 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 3 MLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 2 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 3 DT, 1 FS, 2 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 3 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 FB, 2 G, 1 QB, 1 RB, 2 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 2 QB, 3 T, 3 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 2 QB, 3 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 2 QB, 3 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 2 QB, 1 RB, 3 T, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 2 QB, 1 RB, 3 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 4 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 3 T, 4 WR",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 ILB, 1 OLB, 3 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 3 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 MLB, 1 NT, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 OLB",0.0
+defense_personnel_,0.0
+"offense_personnel_8 OL, 1 RB, 1 TE, 0 WR",0.0
+"offense_personnel_7 OL, 2 RB, 1 TE, 0 WR",0.0
+"offense_personnel_7 OL, 0 RB, 4 TE, 0 WR",0.0
+"offense_personnel_7 OL, 0 RB, 3 TE, 0 WR",0.0
+"offense_personnel_7 OL, 0 RB, 1 TE, 0 WR,1 P,1 LS,1 K",0.0
+"offense_personnel_7 OL, 0 RB, 0 TE, 0 WR,1 P,1 LS,1 DL,1 K",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 3 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 FS, 3 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 FS, 2 ILB, 1 SS",0.0
+"offense_personnel_6 OL, 1 RB, 2 TE, 0 WR,1 LB",0.0
+"offense_personnel_6 OL, 1 RB, 1 TE, 0 WR,2 DL",0.0
+"offense_personnel_6 OL, 1 RB, 0 TE, 0 WR,1 P,1 LS,1 DL,1 K",0.0
+"offense_personnel_6 OL, 0 RB, 2 TE, 2 WR",0.0
+"offense_personnel_6 OL, 0 RB, 2 TE, 0 WR,1 P,1 LS,1 K",0.0
+"offense_personnel_6 OL, 0 RB, 1 TE, 3 WR",0.0
+"offense_personnel_5 G, 1 QB, 2 RB, 1 T, 2 TE",0.0
+"offense_personnel_4 RB, 0 TE, 1 WR",0.0
+"offense_personnel_4 G, 1 QB, 1 RB, 2 T, 3 TE",0.0
+"offense_personnel_4 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 2 FS, 1 MLB, 2 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 2 DT, 1 MLB, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 3 DT, 2 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 3 DT, 1 FS, 1 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 3 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 3 ILB, 2 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 3 ILB, 2 NT",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 1 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 2 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"offense_personnel_3 RB, 0 TE, 0 WR,1 P,4 LB,1 LS,2 DB",0.0
+"offense_personnel_3 ILB, 1 LS, 3 OLB, 1 P, 1 SS, 1 TE, 1 WR",0.0
+"offense_personnel_3 G, 2 QB, 1 RB, 2 T, 1 TE, 2 WR",0.0
+"offense_personnel_3 G, 1 QB, 2 T, 5 WR",0.0
+"offense_personnel_3 G, 1 QB, 2 T, 2 TE, 3 WR",0.0
+"offense_personnel_3 G, 1 QB, 2 RB, 2 T, 3 WR",0.0
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_3 CB, 1 DT, 1 FS, 1 NT, 3 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DT, 1 FS, 1 ILB, 2 NT, 3 OLB",0.0
+"defense_personnel_3 CB, 1 DT, 1 FS, 1 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DE, 3 MLB, 1 OLB, 1 QB, 1 SS, 1 WR",0.0
+"defense_personnel_3 CB, 1 DE, 3 FS, 3 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 3 DT, 3 FS, 1 ILB",0.0
+"defense_personnel_3 CB, 1 DE, 3 DT, 2 FS, 1 MLB, 1 OLB",0.0
+"defense_personnel_3 CB, 1 DE, 3 DT, 2 FS, 1 ILB, 1 SS",0.0
+"offense_personnel_2 RB, 3 TE, 1 WR",0.0
+"offense_personnel_2 RB, 2 TE, 1 WR,1 P,2 LB,1 LS,2 DB",0.0
+"offense_personnel_2 RB, 1 TE, 4 WR",0.0
+"defense_personnel_3 CB, 1 DT, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 DT, 2 FS, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DT, 1 ILB, 1 NT, 2 OLB, 3 SS",0.0
+"defense_personnel_3 CB, 1 DT, 1 FS, 2 MLB, 2 OLB, 2 SS",0.0
+"offense_personnel_4 G, 1 QB, 1 RB, 1 T, 4 WR",0.0
+"offense_personnel_3 RB, 2 TE, 0 WR,1 P,1 LB,1 LS,1 DL,2 DB",0.0
+"offense_personnel_3 RB, 2 TE, 0 WR",0.0
+"offense_personnel_3 RB, 1 TE, 0 WR,1 P,3 LB,1 LS,2 DB",0.0
+"offense_personnel_3 RB, 0 TE, 3 WR",0.0
+"defense_personnel_3 CB, 1 FS, 2 ILB, 1 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 1 FS, 2 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 FS, 1 MLB, 1 NT, 2 OLB, 3 SS",0.0
+"defense_personnel_3 CB, 1 FS, 1 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 FS, 1 ILB, 1 OLB, 1 RB, 1 SS, 2 TE, 1 WR",0.0
+"defense_personnel_3 CB, 1 FS, 1 ILB, 1 NT, 3 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 1 DT, 3 FS, 1 NT, 3 OLB",0.0
+"defense_personnel_3 CB, 1 DT, 3 FS, 1 ILB, 3 OLB",0.0
+"defense_personnel_3 CB, 1 DT, 3 FS, 1 ILB, 1 NT, 2 OLB",0.0
+"offense_personnel_3 G, 1 QB, 2 RB, 2 T, 2 TE, 1 WR",0.0
+"offense_personnel_3 G, 1 QB, 1 RB, 3 T, 3 WR",0.0
+"defense_personnel_4 DL, 2 LB, 4 DB",0.0
+"offense_personnel_3 G, 1 QB, 1 RB, 2 T, 3 TE, 1 WR",0.0
+"offense_personnel_3 C, 1 G, 1 QB, 1 RB, 1 T, 2 TE, 2 WR",0.0
+"offense_personnel_3 C, 1 FB, 1 G, 1 QB, 1 RB, 1 T, 1 TE, 2 WR",0.0
+"offense_personnel_2 RB, 1 TE, 2 WR,1 P,3 LB,1 LS,1 DB",0.0
+"offense_personnel_2 RB, 1 TE, 2 WR,1 P,2 LB,1 LS,2 DB",0.0
+"offense_personnel_2 RB, 1 TE, 1 WR,1 P,4 LB,1 LS,1 DB",0.0
+"offense_personnel_2 RB, 1 TE, 1 WR,1 P,2 LB,1 LS,1 DL,2 DB",0.0
+"offense_personnel_2 RB, 0 TE, 4 WR",0.0
+"offense_personnel_2 RB, 0 TE, 1 WR,4 LB,1 DL,3 DB",0.0
+"offense_personnel_2 RB, 0 TE, 0 WR,1 P,5 LB,1 LS,2 DB",0.0
+"offense_personnel_2 RB, 0 TE, 0 WR,1 P,4 LB,1 LS,3 DB",0.0
+"offense_personnel_2 QB, 6 OL, 1 RB, 2 TE, 0 WR",0.0
+"offense_personnel_2 QB, 6 OL, 1 RB, 0 TE, 2 WR",0.0
+"offense_personnel_2 QB, 3 RB, 0 TE, 1 WR",0.0
+"defense_personnel_3 CB, 1 FS, 2 ILB, 2 OLB, 3 SS",0.0
+"defense_personnel_3 CB, 1 FS, 2 ILB, 1 NT, 3 OLB, 1 TE",0.0
+"offense_personnel_2 G, 1 QB, 2 RB, 3 T, 1 TE, 2 WR",0.0
+"offense_personnel_2 G, 1 QB, 1 RB, 4 T, 3 WR",0.0
+"offense_personnel_2 G, 1 QB, 1 RB, 4 T, 2 TE, 1 WR",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 ILB, 1 NT, 3 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 ILB, 1 NT, 3 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 1 MLB, 3 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 FS, 1 ILB, 3 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 MLB, 3 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 FS, 4 ILB, 2 NT",0.0
+"defense_personnel_2 CB, 1 DE, 2 FS, 2 ILB, 1 RB, 1 TE, 2 WR",0.0
+"defense_personnel_2 CB, 1 DE, 2 FS, 1 ILB, 2 NT, 3 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 4 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 4 FS, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 4 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 3 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 ILB, 1 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 MLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 2 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 1 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"offense_personnel_2 RB, 1 TE, 3 WR",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 3 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 3 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 3 FS, 2 ILB",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 3 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 1 DT, 2 MLB, 1 OLB, 2 SS",0.0
+"offense_personnel_2 QB, 2 RB, 2 TE, 0 WR",0.0
+"offense_personnel_2 QB, 2 RB, 0 TE, 2 WR",0.0
+"offense_personnel_2 QB, 1 RB, 3 TE, 0 WR",0.0
+"offense_personnel_2 QB, 0 RB, 3 TE, 1 WR",0.0
+"offense_personnel_2 QB, 0 RB, 2 TE, 2 WR",0.0
+"offense_personnel_2 QB, 0 RB, 1 TE, 3 WR",0.0
+"offense_personnel_2 G, 1 QB, 3 T, 2 TE, 3 WR",0.0
+"offense_personnel_2 G, 1 QB, 3 T, 1 TE, 4 WR",0.0
+"offense_personnel_2 G, 1 QB, 2 RB, 3 T, 2 TE, 1 WR",0.0
+"offense_personnel_2 C, 3 G, 1 QB, 2 RB, 2 T, 1 TE",0.0
+"offense_personnel_2 C, 3 G, 1 QB, 1 RB, 3 T, 1 TE",0.0
+"offense_personnel_2 C, 3 G, 1 QB, 1 RB, 2 T, 1 TE, 1 WR",0.0
+"offense_personnel_2 C, 2 G, 1 QB, 2 T, 1 TE, 3 WR",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 FS, 4 ILB, 1 NT",0.0
+"defense_personnel_3 CB, 2 DE, 1 FS, 3 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 MLB, 2 NT, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 1 FS, 2 ILB, 3 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 1 FS, 1 ILB, 2 NT, 2 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 1 FS, 1 ILB, 2 NT, 1 OLB, 1 SS",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 3 T, 3 TE",0.0
+"offense_personnel_1 C, 1 DT, 2 G, 2 QB, 2 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 DT, 2 G, 1 QB, 4 T, 2 TE",0.0
+"offense_personnel_1 C, 1 DT, 2 G, 1 QB, 1 RB, 3 T, 2 TE",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 MLB, 3 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 ILB, 3 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 ILB, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 2 MLB, 1 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 1 FS, 1 OLB, 2 SS",0.0
+"offense_personnel_2 G, 1 ILB, 1 QB, 1 RB, 3 T, 1 TE, 2 WR",0.0
+"offense_personnel_2 CB, 2 ILB, 1 LS, 2 OLB, 1 P, 1 RB, 1 SS, 1 TE",0.0
+"offense_personnel_2 CB, 1 FS, 2 ILB, 1 LS, 1 OLB, 1 P, 1 RB, 1 SS, 1 TE",0.0
+"offense_personnel_2 CB, 1 FB, 1 FS, 3 ILB, 1 LS, 1 P, 1 SS, 1 TE",0.0
+"offense_personnel_2 CB, 1 FB, 1 FS, 2 ILB, 1 LS, 1 OLB, 1 P, 1 RB, 1 TE",0.0
+"offense_personnel_2 CB, 1 DE, 3 ILB, 1 LS, 1 OLB, 1 P, 1 SS, 1 TE",0.0
+"offense_personnel_2 CB, 1 DE, 1 FB, 1 LS, 3 MLB, 1 P, 1 SS, 1 TE",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 3 T, 2 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 2 RB, 3 T, 2 TE",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 1 RB, 4 T, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 1 RB, 4 T, 2 TE",0.0
+"offense_personnel_1 C, 1 FB, 1 G, 1 QB, 1 RB, 3 T, 3 TE",0.0
+"offense_personnel_1 C, 1 DT, 3 G, 1 QB, 1 RB, 2 T, 2 TE",0.0
+"offense_personnel_2 C, 2 G, 1 QB, 1 RB, 1 T, 3 TE, 1 WR",0.0
+"offense_personnel_2 C, 1 QB, 3 T, 1 TE, 4 WR",0.0
+"offense_personnel_2 C, 1 QB, 1 RB, 3 T, 3 TE, 1 WR",0.0
+"offense_personnel_2 C, 1 QB, 1 RB, 3 T, 1 TE, 3 WR",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 2 T, 2 TE, 3 WR",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 2 T, 1 TE, 4 WR",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 2 RB, 3 T, 2 TE",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 2 RB, 2 T, 3 WR",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 2 RB, 2 T, 2 TE, 1 WR",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 3 T, 3 WR",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 1 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 1 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 3 FS, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 3 FS, 1 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 2 DT, 2 ILB, 2 OLB",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 3 T, 1 TE, 2 WR",0.0
+"offense_personnel_2 C, 1 G, 1 QB, 1 RB, 2 T, 4 WR",0.0
+"offense_personnel_2 C, 1 G, 1 K, 1 P, 1 QB, 2 T, 1 TE, 2 WR",0.0
+"offense_personnel_2 C, 1 FB, 2 G, 1 QB, 1 T, 1 TE, 3 WR",0.0
+"offense_personnel_2 C, 1 FB, 2 G, 1 QB, 1 RB, 2 T, 2 TE",0.0
+"offense_personnel_2 C, 1 FB, 2 G, 1 QB, 1 RB, 1 T, 3 TE",0.0
+"offense_personnel_2 C, 1 FB, 2 G, 1 QB, 1 RB, 1 T, 2 TE, 1 WR",0.0
+"offense_personnel_0 RB, 2 TE, 2 WR",0.0
+"offense_personnel_2 C, 1 FB, 1 G, 1 QB, 2 RB, 2 T, 1 TE, 1 WR",0.0
+"offense_personnel_2 C, 1 FB, 1 G, 1 QB, 1 RB, 2 T, 3 WR",0.0
+"offense_personnel_2 C, 1 FB, 1 G, 1 QB, 1 RB, 2 T, 3 TE",0.0
+"offense_personnel_1 RB, 2 TE, 1 WR,1 P,3 LB,1 LS,1 DL,1 DB",0.0
+"offense_personnel_1 RB, 2 TE, 1 WR,1 P,2 LB,1 LS,3 DB",0.0
+"offense_personnel_1 RB, 2 TE, 0 WR,1 P,3 LB,1 LS,3 DB",0.0
+"defense_personnel_3 CB, 2 DE, 3 DT, 1 FS, 2 ILB",0.0
+"defense_personnel_3 CB, 2 DE, 2 MLB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 ILB, 4 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 4 ILB",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 2 ILB, 2 NT",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 1 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 1 ILB, 3 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 2 FS, 1 ILB, 2 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 1 ILB, 1 NT, 3 OLB",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 4 DT, 1 MLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 3 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DE, 3 ILB, 1 NT, 1 TE, 1 WR",0.0
+"defense_personnel_3 CB, 2 DE, 3 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_3 CB, 2 DE, 3 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DE, 3 DT, 2 FS, 1 MLB",0.0
+"defense_personnel_3 CB, 2 DE, 3 DT, 1 OLB, 2 SS",0.0
+"offense_personnel_2 C, 1 DT, 1 G, 1 QB, 1 RB, 3 T, 2 TE",0.0
+"offense_personnel_2 C, 1 DT, 1 G, 1 QB, 1 RB, 2 T, 3 TE",0.0
+"offense_personnel_2 C, 1 DE, 3 G, 1 K, 1 LS, 1 P, 2 T",0.0
+"offense_personnel_1 RB, 4 TE, 1 WR",0.0
+"offense_personnel_1 RB, 3 TE, 1 WR,1 P,2 LB,1 LS,2 DB",0.0
+"offense_personnel_1 RB, 3 TE, 0 WR,1 DL",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 2 ILB, 1 NT, 2 OLB",0.0
+"offense_personnel_1 RB, 1 TE, 2 WR,1 DL",0.0
+"offense_personnel_1 RB, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 G, 1 OLB, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 G, 1 ILB, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 FB, 4 G, 1 QB, 1 RB, 1 T, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 4 G, 1 QB, 1 RB, 1 T, 2 TE",0.0
+"offense_personnel_1 C, 1 FB, 4 G, 1 QB, 1 RB, 1 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 3 T, 2 TE",0.0
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 2 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 2 RB, 1 T, 2 WR",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 1 MLB, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 1 MLB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 FS, 3 ILB, 2 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 2 FS, 2 NT, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 FS, 2 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 FS, 2 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 FS, 1 ILB, 4 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 FS, 1 ILB, 1 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DT, 3 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_3 CB, 2 DT, 3 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DT, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DT, 2 FS, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DT, 2 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 2 DT, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 3 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_3 CB, 2 DT, 1 FS, 2 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 1 OLB, 2 SS",0.0
+"offense_personnel_1 C, 1 FB, 3 G, 1 QB, 1 T, 2 TE, 2 WR",0.0
+"offense_personnel_1 RB, 1 TE, 1 WR,1 P,4 LB,1 LS,2 DB",0.0
+"offense_personnel_1 RB, 1 TE, 1 WR,1 P,3 LB,1 LS,3 DB",0.0
+"offense_personnel_1 RB, 1 TE, 0 WR,1 P,5 LB,1 LS,2 DB",0.0
+"offense_personnel_1 RB, 1 TE, 0 WR,1 P,4 LB,1 LS,1 DL,2 DB",0.0
+"offense_personnel_1 RB, 0 TE, 2 WR,4 LB,1 LS,1 DL,2 DB",0.0
+"offense_personnel_1 RB, 0 TE, 2 WR,1 P,3 LB,1 LS,1 DL,2 DB",0.0
+"offense_personnel_1 RB, 0 TE, 1 WR,1 P,4 LB,1 LS,1 DL,2 DB",0.0
+"offense_personnel_1 RB, 0 TE, 0 WR,1 P,5 LB,1 LS,3 DB",0.0
+"offense_personnel_1 RB, 0 TE, 0 WR,1 P,4 LB,1 LS,4 DB",0.0
+"offense_personnel_1 ILB, 1 LS, 3 OLB, 1 P, 1 QB, 1 RB, 1 TE, 2 WR",0.0
+"offense_personnel_1 G, 1 QB, 2 RB, 4 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 G, 1 QB, 2 RB, 4 T, 1 TE, 2 WR",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 1 SS",0.0
+"offense_personnel_1 FB, 3 G, 1 QB, 1 RB, 3 T, 2 WR",0.0
+"offense_personnel_1 FB, 3 G, 1 QB, 1 RB, 2 T, 3 WR",0.0
+"offense_personnel_1 FB, 3 G, 1 QB, 1 RB, 2 T, 3 TE",0.0
+"defense_personnel_3 CB, 3 DE, 1 FS, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 3 ILB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 3 FS, 1 OLB",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 3 FS, 1 ILB",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 2 MLB, 2 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 OLB, 3 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 MLB, 3 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 3 ILB",0.0
+"defense_personnel_3 CB, 3 DE, 1 DT, 1 FS, 2 ILB, 1 OLB",0.0
+"offense_personnel_1 CB, 1 FB, 3 ILB, 1 LS, 1 P, 1 SS, 2 TE, 1 WR",0.0
+"defense_personnel_3 CB, 3 DE, 2 DT, 2 FS, 1 OLB",0.0
+"defense_personnel_3 CB, 3 DE, 2 DT, 1 FS, 2 ILB",0.0
+"defense_personnel_3 CB, 3 DE, 2 DT, 1 FS, 1 MLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DE, 2 DT, 1 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DE, 2 DT, 1 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 3 DE, 1 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 3 MLB, 2 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 3 ILB, 3 NT, 1 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 MLB, 2 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 ILB, 3 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 1 FS, 2 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_5 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_5 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 1 DT, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 3 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 3 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 3 FS, 2 ILB, 1 NT",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 3 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 MLB, 2 OLB, 2 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 2 ILB, 1 OLB, 3 SS",0.0
+"defense_personnel_3 CB, 3 DE, 1 FS, 2 ILB, 2 OLB",0.0
+"offense_personnel_1 G, 1 QB, 1 RB, 4 T, 3 TE, 1 WR",0.0
+"offense_personnel_1 FS, 3 ILB, 1 LS, 1 OLB, 1 P, 1 RB, 1 SS, 1 TE, 1 WR",0.0
+"offense_personnel_1 FS, 2 ILB, 1 LS, 1 OLB, 1 P, 2 SS, 3 TE",0.0
+"offense_personnel_1 FS, 1 G, 1 ILB, 1 LS, 1 OLB, 1 P, 1 RB, 1 SS, 1 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 FB, 4 G, 1 QB, 1 T, 1 TE, 3 WR",0.0
+"offense_personnel_1 FB, 4 G, 1 QB, 1 RB, 1 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 FB, 3 G, 1 QB, 2 T, 2 TE, 2 WR",0.0
+"offense_personnel_1 FB, 3 G, 1 QB, 2 T, 1 TE, 3 WR",0.0
+"defense_personnel_3 CB, 3 DE, 2 ILB, 1 NT, 2 SS",0.0
+"defense_personnel_3 CB, 3 DE, 2 FS, 3 ILB",0.0
+"defense_personnel_3 CB, 3 DE, 2 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DE, 2 FS, 2 ILB, 1 NT",0.0
+"offense_personnel_1 FB, 2 G, 1 QB, 3 T, 2 TE, 2 WR",0.0
+"offense_personnel_1 FB, 2 G, 1 QB, 3 T, 1 TE, 3 WR",0.0
+"offense_personnel_1 FB, 2 G, 1 QB, 1 RB, 3 T, 3 TE",0.0
+"offense_personnel_1 FB, 2 G, 1 QB, 1 RB, 3 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 DT, 3 G, 1 K, 1 LS, 1 P, 4 T",0.0
+"offense_personnel_1 CB, 2 ILB, 1 LS, 3 OLB, 1 P, 2 TE, 1 WR",0.0
+"offense_personnel_1 CB, 1 ILB, 1 LS, 3 OLB, 1 P, 1 SS, 2 TE, 1 WR",0.0
+"offense_personnel_1 CB, 1 FS, 2 ILB, 1 LS, 2 OLB, 1 P, 2 TE, 1 WR",0.0
+"offense_personnel_1 CB, 1 FS, 2 ILB, 1 LS, 1 OLB, 1 P, 3 TE, 1 WR",0.0
+"offense_personnel_1 CB, 1 FS, 2 ILB, 1 LS, 1 OLB, 1 P, 1 RB, 1 SS, 1 TE, 1 WR",0.0
+"offense_personnel_1 CB, 1 FS, 1 ILB, 1 LS, 3 OLB, 1 P, 1 SS, 2 TE",0.0
+"defense_personnel_3 CB, 4 DE, 1 DT, 2 FS, 1 OLB",0.0
+"defense_personnel_3 CB, 4 DE, 1 DT, 1 FS, 2 ILB",0.0
+"defense_personnel_3 CB, 3 FS, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 3 DT, 3 ILB, 2 OLB",0.0
+"defense_personnel_6 CB, 1 DE, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DT, 2 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_3 CB, 3 DT, 2 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DT, 1 ILB, 3 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DT, 1 FS, 3 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 3 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DT, 1 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_3 CB, 3 DT, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 3 DE, 3 ILB, 2 SS",0.0
+"defense_personnel_3 DE, 3 DT, 1 FS, 2 OLB, 2 SS",0.0
+"defense_personnel_3 DE, 2 DT, 3 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_3 DE, 2 DT, 2 FS, 1 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 DE, 2 DT, 1 FS, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 DE, 2 DT, 1 FS, 2 MLB, 2 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 4 DT, 2 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 CB, 4 DT, 1 FS, 2 MLB, 1 OLB",0.0
+"defense_personnel_3 CB, 4 DT, 1 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_3 CB, 4 DT, 1 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_3 CB, 4 DE, 2 ILB, 2 SS",0.0
+"defense_personnel_3 CB, 4 DE, 2 FS, 2 OLB",0.0
+"defense_personnel_3 CB, 4 DE, 2 FS, 2 ILB",0.0
+"defense_personnel_3 CB, 4 DE, 2 FS, 1 MLB, 1 OLB",0.0
+"defense_personnel_3 CB, 4 DE, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_3 CB, 4 DE, 1 ILB, 2 OLB, 1 SS",0.0
+"offense_personnel_1 C, 3 G, 2 QB, 2 RB, 1 T, 2 WR",0.0
+"offense_personnel_1 C, 3 G, 2 QB, 1 RB, 2 T, 2 WR",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 2 T, 2 TE, 2 WR",0.0
+"defense_personnel_3 DL, 3 LB, 3 DB, 1 RB",0.0
+"defense_personnel_3 DL, 1 LB, 6 DB, 1 WR",0.0
+"defense_personnel_3 DL, 1 LB, 6 DB",0.0
+"defense_personnel_3 DL, 0 LB, 8 DB",0.0
+"defense_personnel_3 DE, 4 ILB, 2 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_3 DE, 4 DT, 2 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_3 DE, 3 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 DE, 3 DT, 3 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 DE, 3 DT, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_3 DE, 3 DT, 2 FS, 3 ILB",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_3 DT, 2 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_3 DL, 6 LB, 2 DB",0.0
+"defense_personnel_3 DL, 5 LB, 2 DB, 1 OL",0.0
+"defense_personnel_3 DL, 4 LB, 3 DB, 1 OL",0.0
+"defense_personnel_3 DL, 4 LB, 3 DB",0.0
+"defense_personnel_3 DL, 3 LB, 4 DB, 1 WR",0.0
+"offense_personnel_1 CB, 1 FB, 2 ILB, 1 LS, 2 OLB, 1 P, 1 RB, 1 SS, 1 TE",0.0
+"offense_personnel_1 CB, 1 FB, 2 FS, 2 ILB, 1 LS, 1 OLB, 1 P, 1 RB, 1 TE",0.0
+"offense_personnel_1 CB, 1 FB, 1 FS, 2 ILB, 1 LS, 1 P, 1 SS, 2 TE, 1 WR",0.0
+"offense_personnel_1 CB, 1 FB, 1 FS, 1 ILB, 1 LS, 1 OLB, 1 P, 1 RB, 1 SS, 2 TE",0.0
+"offense_personnel_1 CB, 1 DT, 1 FS, 1 ILB, 1 LS, 1 MLB, 1 P, 3 RB, 1 WR",0.0
+"offense_personnel_1 C, 4 G, 1 QB, 1 RB, 3 T, 1 TE",0.0
+"offense_personnel_1 C, 4 G, 1 QB, 1 RB, 2 T, 2 TE",0.0
+"offense_personnel_1 C, 4 G, 1 QB, 1 RB, 1 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 4 G, 1 QB, 1 RB, 1 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 3 T, 2 TE",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 1 RB, 1 T, 4 WR",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 2 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 2 MLB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 2 FS, 3 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 2 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 2 FS, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 2 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 MLB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 ILB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 2 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 3 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 1 DT, 1 FS, 1 ILB, 2 NT, 1 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 2 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 2 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 DE, 2 FS, 1 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 2 DT, 2 FS, 2 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 2 DT, 2 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 2 DT, 1 MLB, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 DE, 1 FS, 2 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 1 FS, 2 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 2 T, 1 TE, 3 WR",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 2 RB, 2 T, 2 WR",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 2 RB, 2 T, 2 TE",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 2 RB, 2 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 2 RB, 1 T, 3 WR",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 1 T, 2 TE, 3 WR",0.0
+"offense_personnel_1 C, 3 G, 1 QB, 1 T, 1 TE, 4 WR",0.0
+"defense_personnel_4 CB, 1 DT, 1 FS, 1 ILB, 1 NT, 3 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 3 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_4 CB, 1 DE, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 DE, 2 FS, 3 ILB, 1 OLB",0.0
+"offense_personnel_1 C, 3 G, 1 OLB, 1 QB, 1 RB, 2 T, 2 TE",0.0
+"offense_personnel_1 C, 2 G, 2 QB, 3 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 2 G, 2 QB, 2 T, 3 TE, 1 WR",0.0
+"offense_personnel_1 C, 2 G, 2 QB, 2 T, 1 TE, 3 WR",0.0
+"offense_personnel_1 C, 2 G, 2 QB, 2 RB, 2 T, 2 WR",0.0
+"offense_personnel_1 C, 2 G, 2 QB, 1 RB, 3 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 2 G, 2 QB, 1 RB, 2 T, 3 TE",0.0
+"offense_personnel_1 C, 2 G, 1 RB, 2 T, 3 TE, 2 WR",0.0
+"offense_personnel_1 C, 2 G, 1 QB, 3 RB, 2 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 2 G, 1 QB, 2 T, 3 TE, 2 WR",0.0
+"defense_personnel_4 CB, 1 DE, 2 FS, 2 ILB, 1 OLB",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 MLB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 ILB, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 FS, 1 ILB, 2 SS",0.0
+"offense_personnel_1 C, 2 G, 1 QB, 2 RB, 3 T, 2 WR",0.0
+"offense_personnel_1 C, 2 G, 1 QB, 2 RB, 3 T, 2 TE",0.0
+"offense_personnel_1 C, 2 G, 1 QB, 2 RB, 3 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 3 T, 3 WR",0.0
+"offense_personnel_1 C, 2 G, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 2 G, 1 OLB, 1 QB, 1 RB, 3 T, 2 TE",0.0
+"defense_personnel_4 CB, 1 ILB, 2 NT, 2 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 ILB, 1 NT, 3 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 1 FS, 2 ILB, 1 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 1 FB, 1 FS, 2 ILB, 1 RB, 1 TE, 1 WR",0.0
+"defense_personnel_4 CB, 1 DT, 1 FS, 1 ILB, 2 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 2 DT, 2 ILB, 1 SS",0.0
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 FS, 2 ILB",0.0
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_4 CB, 2 DE, 2 DT, 1 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_4 CB, 2 DE, 1 MLB, 1 NT, 1 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 FS, 3 ILB, 1 OLB",0.0
+"defense_personnel_4 CB, 2 DE, 1 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_4 CB, 2 DE, 1 FS, 1 ILB, 1 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 2 OLB, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 2 MLB, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 2 ILB, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 2 FS, 1 ILB, 1 SS",0.0
+"defense_personnel_4 CB, 2 DE, 1 DT, 1 MLB, 1 NT, 2 SS",0.0
+"defense_personnel_4 CB, 2 DE, 2 FS, 3 ILB",0.0
+"defense_personnel_4 CB, 2 DE, 2 FS, 2 ILB, 1 OLB",0.0
+"offense_personnel_1 C, 2 G, 1 OLB, 1 QB, 1 RB, 2 T, 3 TE",0.0
+"offense_personnel_1 C, 2 G, 1 OLB, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 2 G, 1 OLB, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 2 G, 1 K, 1 LS, 1 P, 4 T, 1 TE",0.0
+"offense_personnel_1 C, 2 G, 1 ILB, 1 QB, 1 RB, 3 T, 2 TE",0.0
+"offense_personnel_1 C, 2 G, 1 ILB, 1 QB, 1 RB, 2 T, 2 TE, 1 WR",0.0
+"offense_personnel_1 C, 2 G, 1 ILB, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 QB, 1 RB, 4 T, 2 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 G, 2 QB, 4 T, 1 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 G, 2 QB, 3 T, 2 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 G, 2 QB, 3 T, 1 TE, 3 WR",0.0
+"offense_personnel_1 C, 1 G, 2 QB, 1 RB, 4 T, 2 WR",0.0
+"offense_personnel_1 C, 1 G, 2 QB, 1 RB, 3 T, 2 TE, 1 WR",0.0
+"defense_personnel_4 CB, 2 DE, 2 FS, 1 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 3 DE, 2 FS, 1 MLB, 1 OLB",0.0
+"defense_personnel_4 CB, 3 DE, 2 FS, 1 ILB, 1 OLB",0.0
+"defense_personnel_4 CB, 3 DE, 1 OLB, 3 SS",0.0
+"defense_personnel_4 CB, 3 DE, 1 ILB, 1 NT, 1 OLB, 1 WR",0.0
+"defense_personnel_4 CB, 3 DE, 1 FS, 2 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 3 DE, 1 FS, 2 ILB, 1 SS",0.0
+"defense_personnel_4 CB, 3 DE, 1 FS, 1 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_4 DL, 2 LB, 4 DB, 1 WR",0.0
+"offense_personnel_1 C, 1 G, 1 QB, 3 T, 5 WR",0.0
+"offense_personnel_1 C, 1 G, 1 QB, 3 T, 3 TE, 2 WR",0.0
+"offense_personnel_1 C, 1 G, 1 QB, 2 RB, 4 T, 2 TE",0.0
+"offense_personnel_1 C, 1 G, 1 QB, 2 RB, 4 T, 1 TE, 1 WR",0.0
+"offense_personnel_1 C, 1 G, 1 QB, 1 RB, 5 T, 2 TE",0.0
+"defense_personnel_6 DL, 3 LB, 3 DB",0.0
+"defense_personnel_4 DL, 2 LB, 4 DB, 1 RB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 ILB, 1 NT, 1 OLB, 3 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 3 MLB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 3 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 OLB, 1 SS",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 2 ILB, 1 NT, 2 OLB",0.0
+"defense_personnel_2 CB, 1 DE, 2 DT, 1 FS, 1 ILB, 2 NT, 1 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 3 DE, 1 FS, 1 ILB, 1 NT, 1 SS",0.0
+"defense_personnel_4 CB, 2 ILB, 2 NT, 2 OLB, 1 SS",0.0
+"defense_personnel_4 CB, 2 DT, 2 FS, 3 OLB",0.0
+"defense_personnel_4 CB, 2 DT, 2 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_4 CB, 2 DT, 1 FS, 2 ILB, 1 NT, 1 OLB",0.0
+"defense_personnel_4 CB, 2 DT, 1 FS, 1 ILB, 3 OLB",0.0
+"defense_personnel_4 CB, 2 DT, 1 FS, 1 ILB, 2 OLB, 1 SS",0.0
+"offense_personnel_0 RB, 2 TE, 0 WR,1 P,1 LS,1 DL,1 K",0.0
+"defense_personnel_5 DL, 2 LB, 3 DB",0.0
+"defense_personnel_5 DL, 1 LB, 6 DB",0.0
+"defense_personnel_5 DL, 1 LB, 4 DB, 1 WR",0.0
+"defense_personnel_5 DL, 0 LB, 6 DB",0.0
+"defense_personnel_5 CB, 3 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_5 CB, 2 FS, 3 ILB, 1 SS",0.0
+"offense_personnel_1 C, 1 CB, 2 G, 1 QB, 1 RB, 2 T, 1 TE, 2 WR",0.0
+"offense_personnel_0 RB, 4 TE, 1 WR",0.0
+"offense_personnel_0 RB, 3 TE, 3 WR",0.0
+"offense_personnel_0 RB, 3 TE, 0 WR,1 P,2 LB,1 LS,1 DL,3 DB",0.0
+"offense_personnel_0 RB, 2 TE, 4 WR",0.0
+"offense_personnel_0 RB, 2 TE, 2 WR,1 DB",0.0
+"defense_personnel_6 DL, 3 LB, 1 DB",0.0
+"defense_personnel_6 DL, 1 LB, 5 DB",0.0
+"offense_personnel_0 RB, 1 TE, 0 WR,1 P,5 LB,1 LS,3 DB",0.0
+"offense_personnel_0 RB, 1 TE, 0 WR,1 P,1 LS,2 DL,1 K",0.0
+"offense_personnel_0 RB, 2 TE, 0 WR,1 P,1 LS,2 DL,1 K",0.0
+"offense_personnel_0 RB, 2 TE, 0 WR,1 P,4 LB,1 LS,1 DL,2 DB",0.0
+"offense_personnel_0 RB, 2 TE, 0 WR,1 P,4 LB,1 LS,3 DB",0.0
+"offense_personnel_0 RB, 2 TE, 1 WR,1 P,2 LB,1 LS,2 DL,2 DB",0.0
+"defense_personnel_4 DL, 4 LB, 4 DB",0.0
+"defense_personnel_4 DL, 4 LB, 2 DB",0.0
+"defense_personnel_4 DL, 3 LB, 5 DB",0.0
+"defense_personnel_4 DL, 3 LB, 3 DB, 1 WR",0.0
+"defense_personnel_4 DL, 3 LB, 3 DB, 1 RB",0.0
+"defense_personnel_4 DL, 3 LB, 3 DB",0.0
+"defense_personnel_4 DL, 3 LB, 2 DB, 1 WR",0.0
+"defense_personnel_5 CB, 2 DT, 1 ILB, 2 OLB, 1 SS",0.0
+"defense_personnel_5 CB, 2 DE, 1 FS, 1 ILB, 2 OLB",0.0
+"defense_personnel_5 CB, 2 DE, 1 FS, 1 ILB, 1 NT, 1 SS",0.0
+"offense_personnel_0 RB, 1 TE, 3 WR,1 DB",0.0

@@ -1,1 +1,3 @@
-"""Defensive Intelligence Predictor Package"""
+"""NFL Defensive Intelligence Predictor"""
+
+__version__ = "0.1.0"

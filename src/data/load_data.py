@@ -35,7 +35,7 @@ def load_nfl_pbp(
     logger.info(f"Loading NFL PBP data for seasons: {seasons}")
     
     try:
-        # Load play-by-play data - try loading without cache first (downloads directly)
+        # Load play-by-play data
         pbp = nfl.import_pbp_data(seasons, cache=False)
         logger.info(f"Loaded {len(pbp)} plays")
         
@@ -48,10 +48,8 @@ def load_nfl_pbp(
             pbp_filtered["blitz"] = (pbp_filtered["number_of_pass_rushers"] >= 5).astype(int)
             logger.info(f"Created blitz feature from number_of_pass_rushers")
         else:
-            logger.warning("number_of_pass_rushers column not found, blitz feature cannot be created")
+            logger.warning("number_of_pass_rushers column not found")
         
-        # Select only the requested columns (which may not all exist in raw data)
-        # extract_blitz_features will handle missing columns
         return pbp_filtered
         
     except Exception as e:
@@ -70,7 +68,7 @@ def extract_blitz_features(df: pd.DataFrame, required_columns: list) -> pd.DataF
         required_columns: Columns needed for blitz model
         
     Returns:
-        DataFrame with required columns and clean data
+        DataFrame with required columns
     """
     logger.info("Extracting blitz features...")
     
@@ -100,19 +98,10 @@ def extract_blitz_features(df: pd.DataFrame, required_columns: list) -> pd.DataF
     
     # Rename columns back to standard names for consistency
     rename_dict = {v: k for k, v in column_mapping.items()}
-    # Only rename if the mapping exists and the column exists in our result
     rename_dict = {k: v for k, v in rename_dict.items() if k in blitz_df.columns}
     blitz_df = blitz_df.rename(columns=rename_dict)
     
     logger.info(f"Extracted features shape: {blitz_df.shape}")
     
     return blitz_df
-
-
-def load_raw_data(filepath: Path) -> pd.DataFrame:
-    """Load raw data from CSV file"""
-    logger.info(f"Loading data from {filepath}")
-    df = pd.read_csv(filepath)
-    logger.info(f"Loaded {len(df)} rows, {len(df.columns)} columns")
-    return df
 
